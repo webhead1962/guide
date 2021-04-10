@@ -1,0 +1,1379 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version V3.1.5.0 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
+  <channel id="btsport1.uk">
+    <display-name lang="en">BT SPORTS 1 HD</display-name>
+    <icon src="http://my.tvguide.co.uk/channel_logos/876.png" />
+    <url>http://www.tvguide.co.uk</url>
+  </channel>
+  <channel id="btsport2.uk">
+    <display-name lang="en">BT SPORTS 2 HD</display-name>
+    <icon src="http://my.tvguide.co.uk/channel_logos/880.png" />
+    <url>http://www.tvguide.co.uk</url>
+  </channel>
+  <programme start="20210410043000 +0100" stop="20210410073000 +0100" channel="btsport1.uk">
+    <title lang="en">Live AFL</title>
+    <sub-title lang="en">Live AFL: Western B v Brisbane L</sub-title>
+    <desc lang="en">Western Bulldogs v Brisbane Lions (Bounce-up 4.45am). Coverage of the match from the fourth round of fixtures, taking place at Mars Stadium.(n)</desc>
+  </programme>
+  <programme start="20210410073000 +0100" stop="20210410080000 +0100" channel="btsport1.uk">
+    <title lang="en">Premier League Preview</title>
+    <desc lang="en">A look ahead to all the upcoming action in the Premier League.(n)</desc>
+  </programme>
+  <programme start="20210410080000 +0100" stop="20210410090000 +0100" channel="btsport1.uk">
+    <title lang="en">WWE NXT UK</title>
+    <desc lang="en">All the action from WWE NXT UK as the next generation of Superstars showcase their talents.(n)</desc>
+  </programme>
+  <programme start="20210410090000 +0100" stop="20210410103000 +0100" channel="btsport1.uk">
+    <title lang="en">WWE Friday Night SmackDown</title>
+    <desc lang="en">See all your favourite WWE SmackDown Superstars deliver edge-of-your-seat action, including Roman Reigns, Sasha Banks, Seth Rollins and Bianca Belair.(n)</desc>
+  </programme>
+  <programme start="20210410103000 +0100" stop="20210410110000 +0100" channel="btsport1.uk">
+    <title lang="en">Scottish Football Extra</title>
+    <desc lang="en">A look at all the key issues and talking points in Scottish football.(n)</desc>
+  </programme>
+  <programme start="20210410110000 +0100" stop="20210410113000 +0100" channel="btsport1.uk">
+    <title lang="en">It's A Numbers Game</title>
+    <desc lang="en">The latest episode of The Number's Game.(n)</desc>
+  </programme>
+  <programme start="20210410113000 +0100" stop="20210410150000 +0100" channel="btsport1.uk">
+    <title lang="en">Live Premier League</title>
+    <sub-title lang="en">Live: Manchester City v Leeds Utd</sub-title>
+    <desc lang="en">Manchester City v Leeds United (Kick-off 12.30pm). Coverage of the top-flight clash from Etihad Stadium.(n)</desc>
+  </programme>
+  <programme start="20210410150000 +0100" stop="20210410170000 +0100" channel="btsport1.uk">
+    <title lang="en">BT Sport Score</title>
+    <desc lang="en">Darrell Currie and Jules Breach are joined by guests to bring you the scores and key talking points from across the country as they happen. Join in @btsportscore.(n)</desc>
+  </programme>
+  <programme start="20210410170000 +0100" stop="20210410193000 +0100" channel="btsport1.uk">
+    <title lang="en">Live Vanarama National League</title>
+    <sub-title lang="en">Live: Hartlepool v Notts County</sub-title>
+    <desc lang="en">Hartlepool United v Notts County (Kick-off 5.20pm). Coverage of the match from Super 6 Stadium.(n)</desc>
+  </programme>
+  <programme start="20210410193000 +0100" stop="20210410200000 +0100" channel="btsport1.uk">
+    <title lang="en">Vanarama National League Highlights</title>
+    <desc lang="en">The best of the latest action from the Vanarama National League.(n)</desc>
+  </programme>
+  <programme start="20210410200000 +0100" stop="20210410220000 +0100" channel="btsport1.uk">
+    <title lang="en">Live Ligue 1</title>
+    <sub-title lang="en">Live: Montpellier v Marseille</sub-title>
+    <desc lang="en">Montpellier v Marseille (Kick-off 8.00pm). Coverage of the French top-flight clash from Stade de La Mosson.(n)</desc>
+  </programme>
+  <programme start="20210410220000 +0100" stop="20210410230000 +0100" channel="btsport1.uk">
+    <title lang="en">The Run-In</title>
+    <sub-title lang="en">The Run-In: WWE WrestleMania 37</sub-title>
+    <desc lang="en">The latest episode of The Run-In previews WrestleMania 37.(n)</desc>
+  </programme>
+  <programme start="20210410230000 +0100" stop="20210411003000 +0100" channel="btsport1.uk">
+    <title lang="en">WWE Friday Night SmackDown</title>
+    <desc lang="en">See all your favourite WWE SmackDown Superstars deliver edge-of-your-seat action, including Roman Reigns, Sasha Banks, Seth Rollins and Bianca Belair.(n)</desc>
+  </programme>
+  <programme start="20210411003000 +0100" stop="20210411010000 +0100" channel="btsport1.uk">
+    <title lang="en">UEFA Champions League Magazine</title>
+    <desc lang="en">The latest news and updates from the UEFA Champions League.(n)</desc>
+  </programme>
+  <programme start="20210411010000 +0100" stop="20210411013000 +0100" channel="btsport1.uk">
+    <title lang="en">Premier League World</title>
+    <desc lang="en">A round-up of all the news from the Premier League.(n)</desc>
+  </programme>
+  <programme start="20210411013000 +0100" stop="20210411014500 +0100" channel="btsport1.uk">
+    <title lang="en">BT Sport Reload</title>
+    <desc lang="en">The best bits from BT Sport over the last week, including exclusive interviews, the best action and so much more.(n)</desc>
+  </programme>
+  <programme start="20210411014500 +0100" stop="20210411034500 +0100" channel="btsport1.uk">
+    <title lang="en">AFL</title>
+    <sub-title lang="en">AFL: Western Bulldogs v Brisbane L</sub-title>
+    <desc lang="en">Western Bulldogs v Brisbane Lions.(n)</desc>
+  </programme>
+  <programme start="20210411034500 +0100" stop="20210411051500 +0100" channel="btsport1.uk">
+    <title lang="en">30 for 30</title>
+    <sub-title lang="en">I Hate Christian Laettner</sub-title>
+    <desc lang="en">Basketball player Christian Laettner helped Duke win two national titles in four trips to the Final Four. So why is he intensely disliked by so many? Part of the 30 for 30 series.(n)</desc>
+  </programme>
+  <programme start="20210411051500 +0100" stop="20210411053000 +0100" channel="btsport1.uk">
+    <title lang="en">BT Sport Reload</title>
+    <desc lang="en">The best bits from BT Sport over the last week, including exclusive interviews, the best action and so much more.(n)</desc>
+  </programme>
+  <programme start="20210411053000 +0100" stop="20210411060000 +0100" channel="btsport1.uk">
+    <title lang="en">UEFA Champions League Magazine</title>
+    <desc lang="en">The latest news and updates from the UEFA Champions League.(n)</desc>
+  </programme>
+  <programme start="20210411060000 +0100" stop="20210411070000 +0100" channel="btsport1.uk">
+    <title lang="en">UEFA Champions League Highlights</title>
+    <desc lang="en">All the goals and highlights from the latest set of fixtures in the UEFA Champions League.(n)</desc>
+  </programme>
+  <programme start="20210411070000 +0100" stop="20210411093000 +0100" channel="btsport1.uk">
+    <title lang="en">Live W-League Football</title>
+    <sub-title lang="en">Live: W-League Grand Final</sub-title>
+    <desc lang="en">Sydney FC Women v Melbourne Victory Women (Kick-off 7.05am). Coverage of the Grand Final from Netstrate Jubilee Stadium.(n)</desc>
+  </programme>
+  <programme start="20210411093000 +0100" stop="20210411103000 +0100" channel="btsport1.uk">
+    <title lang="en">Women's One-Day International Cricket</title>
+    <sub-title lang="en">NZ W v Australia W - 3rd ODI</sub-title>
+    <desc lang="en">New Zealand v Australia. Action from the third and final ODI in the series from Bay Oval in Tauranga.(n)</desc>
+  </programme>
+  <programme start="20210411103000 +0100" stop="20210411110000 +0100" channel="btsport1.uk">
+    <title lang="en">UEFA Champions League Magazine</title>
+    <desc lang="en">The latest news and updates from the UEFA Champions League.(n)</desc>
+  </programme>
+  <programme start="20210411110000 +0100" stop="20210411113000 +0100" channel="btsport1.uk">
+    <title lang="en">Premier League World</title>
+    <desc lang="en">A round-up of all the news from the Premier League.(n)</desc>
+  </programme>
+  <programme start="20210411113000 +0100" stop="20210411120000 +0100" channel="btsport1.uk">
+    <title lang="en">ESPN FC</title>
+    <desc lang="en">A round-up of the latest news from the world of football at the ESPN studios in Bristol, Connecticut.(n)</desc>
+  </programme>
+  <programme start="20210411120000 +0100" stop="20210411140000 +0100" channel="btsport1.uk">
+    <title lang="en">Live Ligue 1</title>
+    <sub-title lang="en">Live: Rennes v Nantes</sub-title>
+    <desc lang="en">Rennes v Nantes (KIck-off 12.00pm). Coverage of the French top-flight clash from Roazhon Park.(n)</desc>
+  </programme>
+  <programme start="20210411140000 +0100" stop="20210411160000 +0100" channel="btsport1.uk">
+    <title lang="en">Live Ligue 1</title>
+    <sub-title lang="en">Live: Saint-Etienne v Bordeaux</sub-title>
+    <desc lang="en">St. Etienne v Bordeaux (Kick-off 2.00pm). Coverage of the French top-flight clash from Stade Geoffroy-Guichard.(n)</desc>
+  </programme>
+  <programme start="20210411160000 +0100" stop="20210411180000 +0100" channel="btsport1.uk">
+    <title lang="en">Live Ligue 1</title>
+    <sub-title lang="en">Live: Monaco v Dijon</sub-title>
+    <desc lang="en">Monaco v Dijon (Kick-off 4.00pm). Coverage of the French top-flight clash from Stade Louis II.(n)</desc>
+  </programme>
+  <programme start="20210411180000 +0100" stop="20210411183000 +0100" channel="btsport1.uk">
+    <title lang="en">Vanarama National League Highlights</title>
+    <desc lang="en">The best of the latest action from the Vanarama National League.(n)</desc>
+  </programme>
+  <programme start="20210411183000 +0100" stop="20210411213000 +0100" channel="btsport1.uk">
+    <title lang="en">Live Premier League</title>
+    <sub-title lang="en">Live: Sheffield United v Arsenal</sub-title>
+    <desc lang="en">Sheffield United v Arsenal (Kick-off 7.00pm). Coverage of the top-flight clash from Bramall Lane.(n)</desc>
+  </programme>
+  <programme start="20210411213000 +0100" stop="20210411230000 +0100" channel="btsport1.uk">
+    <title lang="en">BT Sport Films</title>
+    <sub-title lang="en">Make It Or Die Trying: The Frank Warren Story</sub-title>
+    <desc lang="en">BT Sport Films tells the story of Frank Warren's life and how the boxing promoter rose from humble beginnings in North London to multimillion pound deals in Las Vegas.(n)</desc>
+  </programme>
+  <programme start="20210411230000 +0100" stop="20210412000000 +0100" channel="btsport1.uk">
+    <title lang="en">WWE NXT UK</title>
+    <desc lang="en">All the action from WWE NXT UK as the next generation of Superstars showcase their talents.(n)</desc>
+  </programme>
+  <programme start="20210412000000 +0100" stop="20210412010000 +0100" channel="btsport1.uk">
+    <title lang="en">WWE SmackDown Highlights</title>
+    <desc lang="en">All the best highlights from the latest episode of WWE Friday Night SmackDown.(n)</desc>
+  </programme>
+  <programme start="20210412010000 +0100" stop="20210412020000 +0100" channel="btsport1.uk">
+    <title lang="en">ESPN Classic Boxing</title>
+    <sub-title lang="en">Boxing: Ali v Mildenberger 1966</sub-title>
+    <desc lang="en">We revisit the classic 1966 bout between Muhammad Ali and Karl Mildenberger in Stuttgart Germany.(n)</desc>
+  </programme>
+  <programme start="20210412020000 +0100" stop="20210412023000 +0100" channel="btsport1.uk">
+    <title lang="en">ESPN Classic Boxing</title>
+    <sub-title lang="en">Boxing: Foreman v Pires 1971</sub-title>
+    <desc lang="en">Another chance to watch the classic 1971 bout between George Foreman and Luis Pires at Madison Square Garden in New York City.(n)</desc>
+  </programme>
+  <programme start="20210412023000 +0100" stop="20210412030000 +0100" channel="btsport1.uk">
+    <title lang="en">ESPN Classic Boxing</title>
+    <desc lang="en">George Foreman's Greatest Hits - Vol I. A look back at some of Foreman's greatest fights.(n)</desc>
+  </programme>
+  <programme start="20210412030000 +0100" stop="20210412040000 +0100" channel="btsport1.uk">
+    <title lang="en">UFC Main Event</title>
+    <sub-title lang="en">UFC Main Event: 256</sub-title>
+    <desc lang="en">Look back at all the action from the UFC 256 flyweight bout between Deiveson Figueiredo and Brandon Moreno at UFC Apex in Las Vegas, back in December 2020.(n)</desc>
+  </programme>
+  <programme start="20210412040000 +0100" stop="20210412050000 +0100" channel="btsport1.uk">
+    <title lang="en">UFC Unleashed</title>
+    <desc lang="en">Take a look back at some of the greatest fights and fighters in UFC history in this Pound for Pound Powerhouses special.(n)</desc>
+  </programme>
+  <programme start="20210412050000 +0100" stop="20210412053000 +0100" channel="btsport1.uk">
+    <title lang="en">Vanarama National League Highlights</title>
+    <desc lang="en">The best of the latest action from the Vanarama National League.(n)</desc>
+  </programme>
+  <programme start="20210412053000 +0100" stop="20210412060000 +0100" channel="btsport1.uk">
+    <title lang="en">In Depth with Graham Bensinger</title>
+    <desc lang="en">Graham sits down with George Foreman, who talks about the anger that once drove him, his relationship with Muhammad Ali, finding Jesus and his success today.(n)</desc>
+  </programme>
+  <programme start="20210412060000 +0100" stop="20210412063000 +0100" channel="btsport1.uk">
+    <title lang="en">UEFA Europa League Magazine</title>
+    <desc lang="en">A round-up of all the latest action from the UEFA Europa League.(n)</desc>
+  </programme>
+  <programme start="20210412063000 +0100" stop="20210412070000 +0100" channel="btsport1.uk">
+    <title lang="en">UEFA Champions League Magazine</title>
+    <desc lang="en">The latest news and updates from the UEFA Champions League.(n)</desc>
+  </programme>
+  <programme start="20210412070000 +0100" stop="20210412080000 +0100" channel="btsport1.uk">
+    <title lang="en">Premier League Review</title>
+    <desc lang="en">A look back at the best of the recent action from the Premier League.(n)</desc>
+  </programme>
+  <programme start="20210412080000 +0100" stop="20210412093000 +0100" channel="btsport1.uk">
+    <title lang="en">Premier League</title>
+    <sub-title lang="en">Fulham v Wolves</sub-title>
+    <desc lang="en">Fulham v Wolverhampton Wanderers.(n)</desc>
+  </programme>
+  <programme start="20210412093000 +0100" stop="20210412110000 +0100" channel="btsport1.uk">
+    <title lang="en">Premier League</title>
+    <sub-title lang="en">Manchester City v Leeds United</sub-title>
+    <desc lang="en">Manchester City v Leeds United.(n)</desc>
+  </programme>
+  <programme start="20210412110000 +0100" stop="20210412123000 +0100" channel="btsport1.uk">
+    <title lang="en">Premier League</title>
+    <sub-title lang="en">Sheffield United v Arsenal</sub-title>
+    <desc lang="en">Sheffield United v Arsenal.(n)</desc>
+  </programme>
+  <programme start="20210412123000 +0100" stop="20210412130000 +0100" channel="btsport1.uk">
+    <title lang="en">DIY Pundit</title>
+    <desc lang="en">Ugo Monye invites armchair pundits to try their hand at covering their favourite sports, including football, rugby, MotoGP and more.(n)</desc>
+  </programme>
+  <programme start="20210412130000 +0100" stop="20210412140000 +0100" channel="btsport1.uk">
+    <title lang="en">Premier League Review</title>
+    <desc lang="en">A look back at the best of the recent action from the Premier League.(n)</desc>
+  </programme>
+  <programme start="20210412140000 +0100" stop="20210412150000 +0100" channel="btsport1.uk">
+    <title lang="en">Vanarama National League</title>
+    <sub-title lang="en">Hartlepool v Notts County</sub-title>
+    <desc lang="en">Hartlepool United v Notts County.(n)</desc>
+  </programme>
+  <programme start="20210412150000 +0100" stop="20210412153000 +0100" channel="btsport1.uk">
+    <title lang="en">Vanarama National League Highlights</title>
+    <desc lang="en">The best of the latest action from the Vanarama National League.(n)</desc>
+  </programme>
+  <programme start="20210412153000 +0100" stop="20210412160000 +0100" channel="btsport1.uk">
+    <title lang="en">Premier League World</title>
+    <desc lang="en">A round-up of all the news from the Premier League.(n)</desc>
+  </programme>
+  <programme start="20210412160000 +0100" stop="20210412163000 +0100" channel="btsport1.uk">
+    <title lang="en">It's A Numbers Game</title>
+    <desc lang="en">The latest episode of The Number's Game.(n)</desc>
+  </programme>
+  <programme start="20210412163000 +0100" stop="20210412170000 +0100" channel="btsport1.uk">
+    <title lang="en">ESPN FC</title>
+    <desc lang="en">A round-up of the latest news from the world of football at the ESPN studios in Bristol, Connecticut.(n)</desc>
+  </programme>
+  <programme start="20210412170000 +0100" stop="20210412180000 +0100" channel="btsport1.uk">
+    <title lang="en">Ligue 1 Highlights</title>
+    <desc lang="en">A look back at all the recent action from French Ligue 1.(n)</desc>
+  </programme>
+  <programme start="20210412180000 +0100" stop="20210412190000 +0100" channel="btsport1.uk">
+    <title lang="en">Premier League Review</title>
+    <desc lang="en">A look back at the best of the recent action from the Premier League.(n)</desc>
+  </programme>
+  <programme start="20210412190000 +0100" stop="20210412191500 +0100" channel="btsport1.uk">
+    <title lang="en">UEFA Champions League - Stories of the Finals</title>
+    <desc lang="en">Relive the 2002 Champions League final between Bayer Leverkusen of Germany and Real Madrid. Zinedine Zidane scored a goal of sheer brilliance in a memorable game at Hampden Park.(n)</desc>
+  </programme>
+  <programme start="20210412191500 +0100" stop="20210412213000 +0100" channel="btsport1.uk">
+    <title lang="en">Live Bundesliga</title>
+    <sub-title lang="en">Live Hoffenheim v Bayer Leverkusen</sub-title>
+    <desc lang="en">TSG 1899 Hoffenheim v Bayer Leverkusen (Kick-off 7.30pm). Coverage of the German top-flight clash from PreZero Arena.(n)</desc>
+  </programme>
+  <programme start="20210412213000 +0100" stop="20210412220000 +0100" channel="btsport1.uk">
+    <title lang="en">BT Sport Goals Reload</title>
+    <desc lang="en">We bring you the greatest goals from around the world this week, including action from Ligue 1 and the Bundesliga.(n)</desc>
+  </programme>
+  <programme start="20210412220000 +0100" stop="20210412223000 +0100" channel="btsport1.uk">
+    <title lang="en">DIY Pundit</title>
+    <desc lang="en">Ugo Monye invites armchair pundits to try their hand at covering their favourite sports, including football, rugby, MotoGP and more.(n)</desc>
+  </programme>
+  <programme start="20210412223000 +0100" stop="20210412230000 +0100" channel="btsport1.uk">
+    <title lang="en">Vanarama National League Highlights</title>
+    <desc lang="en">The best of the latest action from the Vanarama National League.(n)</desc>
+  </programme>
+  <programme start="20210412230000 +0100" stop="20210413000000 +0100" channel="btsport1.uk">
+    <title lang="en">WWE Raw Highlights</title>
+    <desc lang="en">All the best highlights from the latest WWE Raw.(n)</desc>
+  </programme>
+  <programme start="20210413000000 +0100" stop="20210413010000 +0100" channel="btsport1.uk">
+    <title lang="en">WWE SmackDown Highlights</title>
+    <desc lang="en">All the best highlights from the latest episode of WWE Friday Night SmackDown.(n)</desc>
+  </programme>
+  <programme start="20210413010000 +0100" stop="20210413041500 +0100" channel="btsport1.uk">
+    <title lang="en">Live: WWE Monday Night Raw</title>
+    <desc lang="en">Watch Drew McIntyre, Asuka, Kofi Kingston and Charlotte Flair and more of your favourite WWE Superstars face-off inside the ring on WWE Monday Night Raw.(n)</desc>
+  </programme>
+  <programme start="20210413041500 +0100" stop="20210413044500 +0100" channel="btsport1.uk">
+    <title lang="en">In Depth with Graham Bensinger</title>
+    <desc lang="en">Graham Bensinger sits down with the former WWE wrestler and governor of Minnesota, Jesse Ventura. Ventura talks about meeting Fidel Castro and his falling out with Hulk Hogan.(n)</desc>
+  </programme>
+  <programme start="20210413044500 +0100" stop="20210413050000 +0100" channel="btsport1.uk">
+    <title lang="en">BT Sport Goals Reload</title>
+    <desc lang="en">We bring you the greatest goals from around the world this week, including action from Ligue 1 and the Bundesliga.(n)</desc>
+  </programme>
+  <programme start="20210413050000 +0100" stop="20210413060000 +0100" channel="btsport1.uk">
+    <title lang="en">Ligue 1 Highlights</title>
+    <desc lang="en">A look back at all the recent action from French Ligue 1.(n)</desc>
+  </programme>
+  <programme start="20210413060000 +0100" stop="20210413070000 +0100" channel="btsport1.uk">
+    <title lang="en">Extreme E Highlights</title>
+    <sub-title lang="en">Extreme E Highlights: Saudi Arabia</sub-title>
+    <desc lang="en">Highlights from the opening round of the Extreme E season in Saudi Arabia.(n)</desc>
+  </programme>
+  <programme start="20210413070000 +0100" stop="20210413080000 +0100" channel="btsport1.uk">
+    <title lang="en">WWE NXT UK</title>
+    <desc lang="en">All the action from WWE NXT UK as the next generation of Superstars showcase their talents.(n)</desc>
+  </programme>
+  <programme start="20210413080000 +0100" stop="20210413083000 +0100" channel="btsport1.uk">
+    <title lang="en">It's A Numbers Game</title>
+    <desc lang="en">The latest episode of The Number's Game.(n)</desc>
+  </programme>
+  <programme start="20210413083000 +0100" stop="20210413090000 +0100" channel="btsport1.uk">
+    <title lang="en">Vanarama National League Highlights</title>
+    <desc lang="en">The best of the latest action from the Vanarama National League.(n)</desc>
+  </programme>
+  <programme start="20210413090000 +0100" stop="20210413100000 +0100" channel="btsport1.uk">
+    <title lang="en">Premier League Review</title>
+    <desc lang="en">A look back at the best of the recent action from the Premier League.(n)</desc>
+  </programme>
+  <programme start="20210413100000 +0100" stop="20210413120000 +0100" channel="btsport1.uk">
+    <title lang="en">Live Hyundai A-League</title>
+    <sub-title lang="en">Live: Newcastle Jets v Perth Glory</sub-title>
+    <desc lang="en">Newcastle Jets v Perth Glory (Kick-off 10.05am). Coverage of the Australian top-flight clash from McDonald Jones Stadium.(n)</desc>
+  </programme>
+  <programme start="20210413120000 +0100" stop="20210413123000 +0100" channel="btsport1.uk">
+    <title lang="en">ESPN FC</title>
+    <desc lang="en">A round-up of the latest news from the world of football at the ESPN studios in Bristol, Connecticut.(n)</desc>
+  </programme>
+  <programme start="20210413123000 +0100" stop="20210413133000 +0100" channel="btsport1.uk">
+    <title lang="en">Premier League Review</title>
+    <desc lang="en">A look back at the best of the recent action from the Premier League.(n)</desc>
+  </programme>
+  <programme start="20210413133000 +0100" stop="20210413143000 +0100" channel="btsport1.uk">
+    <title lang="en">Vanarama National League</title>
+    <sub-title lang="en">Hartlepool v Notts County</sub-title>
+    <desc lang="en">Hartlepool United v Notts County.(n)</desc>
+  </programme>
+  <programme start="20210413143000 +0100" stop="20210413150000 +0100" channel="btsport1.uk">
+    <title lang="en">Vanarama National League Highlights</title>
+    <desc lang="en">The best of the latest action from the Vanarama National League.(n)</desc>
+  </programme>
+  <programme start="20210413150000 +0100" stop="20210413153000 +0100" channel="btsport1.uk">
+    <title lang="en">BT Sport Goals Reload</title>
+    <desc lang="en">We bring you the greatest goals from around the world this week, including action from Ligue 1 and the Bundesliga.(n)</desc>
+  </programme>
+  <programme start="20210413153000 +0100" stop="20210413170000 +0100" channel="btsport1.uk">
+    <title lang="en">Premier League</title>
+    <sub-title lang="en">Sheffield United v Arsenal</sub-title>
+    <desc lang="en">Sheffield United v Arsenal.(n)</desc>
+  </programme>
+  <programme start="20210413170000 +0100" stop="20210413180000 +0100" channel="btsport1.uk">
+    <title lang="en">Premier League Review</title>
+    <desc lang="en">A look back at the best of the recent action from the Premier League.(n)</desc>
+  </programme>
+  <programme start="20210413180000 +0100" stop="20210413190000 +0100" channel="btsport1.uk">
+    <title lang="en">Ligue 1 Highlights</title>
+    <desc lang="en">A look back at all the recent action from French Ligue 1.(n)</desc>
+  </programme>
+  <programme start="20210413190000 +0100" stop="20210413203000 +0100" channel="btsport1.uk">
+    <title lang="en">Hyundai A-League</title>
+    <sub-title lang="en">Newcastle Jets v Perth Glory</sub-title>
+    <desc lang="en">Newcastle Jets v Perth Glory.(n)</desc>
+  </programme>
+  <programme start="20210413203000 +0100" stop="20210413210000 +0100" channel="btsport1.uk">
+    <title lang="en">Inside AFL</title>
+    <desc lang="en">Josh Gabelich hosts Inside AFL as we look at all the latest news and action from the Australian Football League.(n)</desc>
+  </programme>
+  <programme start="20210413210000 +0100" stop="20210413233000 +0100" channel="btsport1.uk">
+    <title lang="en">WWE Monday Night Raw</title>
+    <desc lang="en">Watch Drew McIntyre, Asuka, Kofi Kingston and Charlotte Flair and more of your favourite WWE Superstars face-off inside the ring on WWE Monday Night Raw.(n)</desc>
+  </programme>
+  <programme start="20210413233000 +0100" stop="20210414000000 +0100" channel="btsport1.uk">
+    <title lang="en">UEFA Europa League Magazine</title>
+    <desc lang="en">A round-up of all the latest action from the UEFA Europa League.(n)</desc>
+  </programme>
+  <programme start="20210414000000 +0100" stop="20210414003000 +0100" channel="btsport1.uk">
+    <title lang="en">BT Sport Goals Reload</title>
+    <desc lang="en">We bring you the greatest goals from around the world this week, including action from Ligue 1 and the Bundesliga.(n)</desc>
+  </programme>
+  <programme start="20210414003000 +0100" stop="20210414010000 +0100" channel="btsport1.uk">
+    <title lang="en">Inside AFL</title>
+    <desc lang="en">Josh Gabelich hosts Inside AFL as we look at all the latest news and action from the Australian Football League.(n)</desc>
+  </programme>
+  <programme start="20210414010000 +0100" stop="20210414031500 +0100" channel="btsport1.uk">
+    <title lang="en">Live: WWE NXT</title>
+    <desc lang="en">All the action from WWE NXT as the next generation of Superstars showcase their talents.(n)</desc>
+  </programme>
+  <programme start="20210414031500 +0100" stop="20210414033000 +0100" channel="btsport1.uk">
+    <title lang="en">BT Sport Goals Reload</title>
+    <desc lang="en">We bring you the greatest goals from around the world this week, including action from Ligue 1 and the Bundesliga.(n)</desc>
+  </programme>
+  <programme start="20210414033000 +0100" stop="20210414040000 +0100" channel="btsport1.uk">
+    <title lang="en">Classic MOTD - Thrillers</title>
+    <sub-title lang="en">Tottenham v Man Utd 1965/66</sub-title>
+    <desc lang="en">We delve into the Match of the Day archives to revisit highlights of the 1965/66 First Division clash between Tottenham and Manchester United at White Hart Lane.(n)</desc>
+  </programme>
+  <programme start="20210414040000 +0100" stop="20210414043000 +0100" channel="btsport1.uk">
+    <title lang="en">Classic MOTD - Thrillers</title>
+    <sub-title lang="en">Arsenal v Sheffield United 1965/66</sub-title>
+    <desc lang="en">We delve into the Match of the Day archives to revisit highlights of the 1965/66 First Division clash between Arsenal and Sheffield United at Highbury.(n)</desc>
+  </programme>
+  <programme start="20210414043000 +0100" stop="20210414050000 +0100" channel="btsport1.uk">
+    <title lang="en">Classic MOTD - Thrillers</title>
+    <sub-title lang="en">Leicester City v Man Utd 1965/66</sub-title>
+    <desc lang="en">We delve into the Match of the Day archives to revisit highlights of the 1965/66 First Division clash between Leicester City and Manchester United at Filbert Street.(n)</desc>
+  </programme>
+  <programme start="20210414050000 +0100" stop="20210414053000 +0100" channel="btsport1.uk">
+    <title lang="en">Classic MOTD - Thrillers</title>
+    <sub-title lang="en">Fulham v Sheff Weds 1965/66</sub-title>
+    <desc lang="en">We delve into the Match of the Day archives to revisit highlights of the 1965/66 First Division clash between Fulham and Sheffield Wednesday at Craven Cottage.(n)</desc>
+  </programme>
+  <programme start="20210414053000 +0100" stop="20210414060000 +0100" channel="btsport1.uk">
+    <title lang="en">Classic MOTD - Thrillers</title>
+    <sub-title lang="en">Aston Villa v Chelsea 1966/67</sub-title>
+    <desc lang="en">We delve into the Match of the Day archives to revisit highlights of the 1966/67 First Division clash between Aston Villa and Chelsea at Villa Park.(n)</desc>
+  </programme>
+  <programme start="20210414060000 +0100" stop="20210414063000 +0100" channel="btsport1.uk">
+    <title lang="en">Classic MOTD - Thrillers</title>
+    <sub-title lang="en">Leicester City v Burnley 1966/67</sub-title>
+    <desc lang="en">We delve into the Match of the Day archives to revisit highlights of the 1966/67 First Division clash between Leicester City and Burnley at Filbert Street.(n)</desc>
+  </programme>
+  <programme start="20210414063000 +0100" stop="20210414070000 +0100" channel="btsport1.uk">
+    <title lang="en">Classic MOTD - Thrillers</title>
+    <sub-title lang="en">West Brom v Man Utd 1966/67</sub-title>
+    <desc lang="en">We delve into the Match of the Day archives to revisit highlights of the 1966/67 First Division clash between West Brom and Manchester United at the Hawthorns.(n)</desc>
+  </programme>
+  <programme start="20210414070000 +0100" stop="20210414080000 +0100" channel="btsport1.uk">
+    <title lang="en">Women's One-Day International Cricket</title>
+    <sub-title lang="en">NZ W v Australia W - 3rd ODI</sub-title>
+    <desc lang="en">New Zealand v Australia. Action from the third and final ODI in the series from Bay Oval in Tauranga.(n)</desc>
+  </programme>
+  <programme start="20210414080000 +0100" stop="20210414083000 +0100" channel="btsport1.uk">
+    <title lang="en">Inside AFL</title>
+    <desc lang="en">Josh Gabelich hosts Inside AFL as we look at all the latest news and action from the Australian Football League.(n)</desc>
+  </programme>
+  <programme start="20210414083000 +0100" stop="20210414093000 +0100" channel="btsport1.uk">
+    <title lang="en">Bundesliga Highlights Show</title>
+    <desc lang="en">The best of the latest action from the Bundesliga.(n)</desc>
+  </programme>
+  <programme start="20210414093000 +0100" stop="20210414100000 +0100" channel="btsport1.uk">
+    <title lang="en">ESPN FC</title>
+    <desc lang="en">A round-up of the latest news from the world of football at the ESPN studios in Bristol, Connecticut.(n)</desc>
+  </programme>
+  <programme start="20210414100000 +0100" stop="20210414101500 +0100" channel="btsport1.uk">
+    <title lang="en">What I Wore</title>
+    <sub-title lang="en">What I Wore: Rio Ferdinand</sub-title>
+    <desc lang="en">In the first of this new BT Sport series Rio Ferdinand describes his passion for football via the shirts which have defined his life.(n)</desc>
+  </programme>
+  <programme start="20210414101500 +0100" stop="20210414103000 +0100" channel="btsport1.uk">
+    <title lang="en">Premier League Reload</title>
+    <desc lang="en">A whirlwind catch-up from the weekend's Premier League matches, featuring all the goals and major talking points.(n)</desc>
+  </programme>
+  <programme start="20210414103000 +0100" stop="20210414123000 +0100" channel="btsport1.uk">
+    <title lang="en">Live Hyundai A-League</title>
+    <sub-title lang="en">Live: Adelaide Utd v Macarthur B</sub-title>
+    <desc lang="en">Adelaide United v Macarthur Bulls (Kick-off 10.35am). Coverage of the Australian top-flight clash from Coopers Stadium.(n)</desc>
+  </programme>
+  <programme start="20210414123000 +0100" stop="20210414133000 +0100" channel="btsport1.uk">
+    <title lang="en">Ligue 1 Highlights</title>
+    <desc lang="en">A look back at all the recent action from French Ligue 1.(n)</desc>
+  </programme>
+  <programme start="20210414133000 +0100" stop="20210414143000 +0100" channel="btsport1.uk">
+    <title lang="en">Bundesliga Highlights Show</title>
+    <desc lang="en">The best of the latest action from the Bundesliga.(n)</desc>
+  </programme>
+  <programme start="20210414143000 +0100" stop="20210414150000 +0100" channel="btsport1.uk">
+    <title lang="en">ESPN FC</title>
+    <desc lang="en">A round-up of the latest news from the world of football at the ESPN studios in Bristol, Connecticut.(n)</desc>
+  </programme>
+  <programme start="20210414150000 +0100" stop="20210414160000 +0100" channel="btsport1.uk">
+    <title lang="en">Fishing: On The Bank</title>
+    <desc lang="en">Angling magazine show presented by Rob Hughes and Andy Ford.(n)</desc>
+  </programme>
+  <programme start="20210414160000 +0100" stop="20210414170000 +0100" channel="btsport1.uk">
+    <title lang="en">V10 R-League</title>
+    <desc lang="en">Highlights from the the V10 R-League.(n)</desc>
+  </programme>
+  <programme start="20210414170000 +0100" stop="20210414180000 +0100" channel="btsport1.uk">
+    <title lang="en">WWE SmackDown Highlights</title>
+    <desc lang="en">All the best highlights from the latest episode of WWE Friday Night SmackDown.(n)</desc>
+  </programme>
+  <programme start="20210414180000 +0100" stop="20210414190000 +0100" channel="btsport1.uk">
+    <title lang="en">WWE Raw Highlights</title>
+    <desc lang="en">All the best highlights from the latest WWE Raw.(n)</desc>
+  </programme>
+  <programme start="20210414190000 +0100" stop="20210414193000 +0100" channel="btsport1.uk">
+    <title lang="en">Premier League World</title>
+    <desc lang="en">A round-up of all the news from the Premier League.(n)</desc>
+  </programme>
+  <programme start="20210414193000 +0100" stop="20210414200000 +0100" channel="btsport1.uk">
+    <title lang="en">Inside AFL</title>
+    <desc lang="en">Josh Gabelich hosts Inside AFL as we look at all the latest news and action from the Australian Football League.(n)</desc>
+  </programme>
+  <programme start="20210414200000 +0100" stop="20210414203000 +0100" channel="btsport1.uk">
+    <title lang="en">The Aussie Rules Show</title>
+    <desc lang="en">The Aussie Rules Show presented by Ollie Geale presents all the latest news, views and analysis of the game. Plus, appearances from special guests every week.(n)</desc>
+  </programme>
+  <programme start="20210414203000 +0100" stop="20210414210000 +0100" channel="btsport1.uk">
+    <title lang="en">BT Sport Reload</title>
+    <desc lang="en">The best bits from BT Sport over the last week, including exclusive interviews, the best action and so much more.(n)</desc>
+  </programme>
+  <programme start="20210414210000 +0100" stop="20210414224500 +0100" channel="btsport1.uk">
+    <title lang="en">WWE NXT</title>
+    <desc lang="en">All the action from WWE NXT as the next generation of Superstars showcase their talents.(n)</desc>
+  </programme>
+  <programme start="20210414224500 +0100" stop="20210414234500 +0100" channel="btsport1.uk">
+    <title lang="en">WWE NXT UK</title>
+    <desc lang="en">All the action from WWE NXT UK as the next generation of Superstars showcase their talents.(n)</desc>
+  </programme>
+  <programme start="20210414234500 +0100" stop="20210415004500 +0100" channel="btsport1.uk">
+    <title lang="en">WWE Raw Highlights</title>
+    <desc lang="en">All the best highlights from the latest WWE Raw.(n)</desc>
+  </programme>
+  <programme start="20210415004500 +0100" stop="20210415010000 +0100" channel="btsport1.uk">
+    <title lang="en">BT Sport Reload</title>
+    <desc lang="en">The best bits from BT Sport over the last week, including exclusive interviews, the best action and so much more.(n)</desc>
+  </programme>
+  <programme start="20210415010000 +0100" stop="20210415013000 +0100" channel="btsport1.uk">
+    <title lang="en">The Aussie Rules Show</title>
+    <desc lang="en">The Aussie Rules Show presented by Ollie Geale presents all the latest news, views and analysis of the game. Plus, appearances from special guests every week.(n)</desc>
+  </programme>
+  <programme start="20210415013000 +0100" stop="20210415043000 +0100" channel="btsport1.uk">
+    <title lang="en">UFC</title>
+    <sub-title lang="en">UFC Fight Night</sub-title>
+    <desc lang="en">Action from UFC Fight Night as middleweights Kevin Holland and Marvin Vettori meet at the UFC Apex in Las Vegas, Nevada, USA..(n)</desc>
+  </programme>
+  <programme start="20210415043000 +0100" stop="20210415053000 +0100" channel="btsport1.uk">
+    <title lang="en">UFC Unleashed</title>
+    <desc lang="en">Take a look back at some of the greatest fights and fighters in UFC history in this Pound for Pound Powerhouses special.(n)</desc>
+  </programme>
+  <programme start="20210415053000 +0100" stop="20210415060000 +0100" channel="btsport1.uk">
+    <title lang="en">Classic MOTD - Thrillers</title>
+    <sub-title lang="en">Man Utd v West Ham 1969/70</sub-title>
+    <desc lang="en">We delve into the Match of the Day archives to revisit highlights of the 1969/70 First Division clash between Manchester United and West Ham at Old Trafford.(n)</desc>
+  </programme>
+  <programme start="20210415060000 +0100" stop="20210415063000 +0100" channel="btsport1.uk">
+    <title lang="en">Classic Premier League</title>
+    <sub-title lang="en">Chelsea v Tottenham 2015/16</sub-title>
+    <desc lang="en">Revisit Chelsea's Premier League clash with Tottenham as Spurs squandered any chance of lifting the title. It was a game that had it all: goals, tasty tackles and touchline scraps.(n)</desc>
+  </programme>
+  <programme start="20210415063000 +0100" stop="20210415070000 +0100" channel="btsport1.uk">
+    <title lang="en">Classic Premier League</title>
+    <sub-title lang="en">West Ham v Man United 2015/16</sub-title>
+    <desc lang="en">Another chance to watch the 2015/16 Premier League clash between West Ham and Manchester United as the Hammers marked their departure from Upton Park with a thrilling victory.(n)</desc>
+  </programme>
+  <programme start="20210415070000 +0100" stop="20210415073000 +0100" channel="btsport1.uk">
+    <title lang="en">Classic Premier League</title>
+    <sub-title lang="en">Everton v Bournemouth 2016/17</sub-title>
+    <desc lang="en">Take a look back as a Romelu Lukaku inspired Everton hit Bournemouth for six in a scintillating showdown at Goodison Park during the 2016/17 season.(n)</desc>
+  </programme>
+  <programme start="20210415073000 +0100" stop="20210415080000 +0100" channel="btsport1.uk">
+    <title lang="en">BT Sport Reload</title>
+    <desc lang="en">The best bits from BT Sport over the last week, including exclusive interviews, the best action and so much more.(n)</desc>
+  </programme>
+  <programme start="20210415080000 +0100" stop="20210415081500 +0100" channel="btsport1.uk">
+    <title lang="en">Premier League Reload</title>
+    <desc lang="en">A whirlwind catch-up from the weekend's Premier League matches, featuring all the goals and major talking points.(n)</desc>
+  </programme>
+  <programme start="20210415081500 +0100" stop="20210415083000 +0100" channel="btsport1.uk">
+    <title lang="en">BT Sport Goals Reload</title>
+    <desc lang="en">We bring you the greatest goals from around the world this week, including action from Ligue 1 and the Bundesliga.(n)</desc>
+  </programme>
+  <programme start="20210415083000 +0100" stop="20210415090000 +0100" channel="btsport1.uk">
+    <title lang="en">ESPN FC</title>
+    <desc lang="en">A round-up of the latest news from the world of football at the ESPN studios in Bristol, Connecticut.(n)</desc>
+  </programme>
+  <programme start="20210415090000 +0100" stop="20210415093000 +0100" channel="btsport1.uk">
+    <title lang="en">Inside AFL</title>
+    <desc lang="en">Josh Gabelich hosts Inside AFL as we look at all the latest news and action from the Australian Football League.(n)</desc>
+  </programme>
+  <programme start="20210415093000 +0100" stop="20210415100000 +0100" channel="btsport1.uk">
+    <title lang="en">The Aussie Rules Show</title>
+    <desc lang="en">The Aussie Rules Show presented by Ollie Geale presents all the latest news, views and analysis of the game. Plus, appearances from special guests every week.(n)</desc>
+  </programme>
+  <programme start="20210415100000 +0100" stop="20210415130000 +0100" channel="btsport1.uk">
+    <title lang="en">Live AFL</title>
+    <sub-title lang="en">Live AFL: St Kilda v Richmond</sub-title>
+    <desc lang="en">St Kilda Saints v Richmond Tigers (Bounce-up 10.20am). Coverage of the match from the fifth round of fixtures, taking place at Marvel Stadium.(n)</desc>
+  </programme>
+  <programme start="20210415130000 +0100" stop="20210415133000 +0100" channel="btsport1.uk">
+    <title lang="en">ESPN FC</title>
+    <desc lang="en">A round-up of the latest news from the world of football at the ESPN studios in Bristol, Connecticut.(n)</desc>
+  </programme>
+  <programme start="20210415133000 +0100" stop="20210415140000 +0100" channel="btsport1.uk">
+    <title lang="en">Premier League World</title>
+    <desc lang="en">A round-up of all the news from the Premier League.(n)</desc>
+  </programme>
+  <programme start="20210415140000 +0100" stop="20210415143000 +0100" channel="btsport1.uk">
+    <title lang="en">Badminton Unlimited</title>
+    <desc lang="en">Catch up on all the latest news and information from the world of badminton.(n)</desc>
+  </programme>
+  <programme start="20210415143000 +0100" stop="20210415150000 +0100" channel="btsport1.uk">
+    <title lang="en">BT Sport Reload</title>
+    <desc lang="en">The best bits from BT Sport over the last week, including exclusive interviews, the best action and so much more.(n)</desc>
+  </programme>
+  <programme start="20210415150000 +0100" stop="20210415151500 +0100" channel="btsport1.uk">
+    <title lang="en">All Stars v Rock Stars</title>
+    <desc lang="en">The latest episode of All Stars v Rock Stars.(n)</desc>
+  </programme>
+  <programme start="20210415151500 +0100" stop="20210415164500 +0100" channel="btsport1.uk">
+    <title lang="en">WWE Friday Night SmackDown</title>
+    <desc lang="en">See all your favourite WWE SmackDown Superstars deliver edge-of-your-seat action, including Roman Reigns, Sasha Banks, Seth Rollins and Bianca Belair.(n)</desc>
+  </programme>
+  <programme start="20210415164500 +0100" stop="20210415191500 +0100" channel="btsport1.uk">
+    <title lang="en">WWE Monday Night Raw</title>
+    <desc lang="en">Watch Drew McIntyre, Asuka, Kofi Kingston and Charlotte Flair and more of your favourite WWE Superstars face-off inside the ring on WWE Monday Night Raw.(n)</desc>
+  </programme>
+  <programme start="20210415191500 +0100" stop="20210415223000 +0100" channel="btsport1.uk">
+    <title lang="en">Live UEFA Europa League</title>
+    <sub-title lang="en">Live: Slavia Prague v Arsenal</sub-title>
+    <desc lang="en">Slavia Prague v Arsenal (Kick-off 8.00pm). Coverage of the quarter-final second-leg clash from Eden Arena, as both sides look to progress into this years semi-finals. The home side will looking to knock out their third British team of the tournament, after two previous two-leg victories against Leicester City and Rangers. They beat Leicester 2-0 across two legs before defeating Rangers 3-1 in the round-of-16..(n)</desc>
+  </programme>
+  <programme start="20210415223000 +0100" stop="20210415230000 +0100" channel="btsport1.uk">
+    <title lang="en">DIY Pundit</title>
+    <desc lang="en">Ugo Monye presents DIY Pundit, a brand-new series that invites armchair pundits to try their hand at covering their favourite sports, including football, Rugby, MotoGP and.(n)</desc>
+  </programme>
+  <programme start="20210415230000 +0100" stop="20210415233000 +0100" channel="btsport1.uk">
+    <title lang="en">Premier League Match Pack</title>
+    <desc lang="en">A preview of this weekend's top flight action, featuring key stats and insight.(n)</desc>
+  </programme>
+  <programme start="20210415233000 +0100" stop="20210416000000 +0100" channel="btsport1.uk">
+    <title lang="en">Bundesliga Special</title>
+    <desc lang="en">Action from Germany's Bundesliga.(n)</desc>
+  </programme>
+  <programme start="20210416000000 +0100" stop="20210416023000 +0100" channel="btsport1.uk">
+    <title lang="en">Live NHL</title>
+    <sub-title lang="en">Live NHL: Philadelphia @ Pittsburgh</sub-title>
+    <desc lang="en">Pittsburgh Penguins v Philadelphia Flyers (Face-off 12.00am). Coverage of the East Division clash from PPG Paints Arena.(n)</desc>
+  </programme>
+  <programme start="20210416023000 +0100" stop="20210416033000 +0100" channel="btsport1.uk">
+    <title lang="en">The Emirates FA Cup Preview</title>
+    <desc lang="en">A look ahead to the semi-finals of the Emirates FA Cup as Man City face Chelsea and Leicester take on Southampton at Wembley Stadium.(n)</desc>
+  </programme>
+  <programme start="20210416033000 +0100" stop="20210416040000 +0100" channel="btsport1.uk">
+    <title lang="en">Classic MOTD - Thrillers</title>
+    <sub-title lang="en">Southampton v Man Utd 1971/72</sub-title>
+    <desc lang="en">We delve into the Match of the Day archives to revisit highlights of the 1971/72 First Division clash between Southampton and Manchester United at The Dell.(n)</desc>
+  </programme>
+  <programme start="20210416040000 +0100" stop="20210416043000 +0100" channel="btsport1.uk">
+    <title lang="en">Classic MOTD - Thrillers</title>
+    <sub-title lang="en">Leeds United v Southampton 1971/72</sub-title>
+    <desc lang="en">We delve into the Match of the Day archives to revisit highlights of the 1971/72 First Division clash between Leeds United and Southampton at Elland Road.(n)</desc>
+  </programme>
+  <programme start="20210416043000 +0100" stop="20210416050000 +0100" channel="btsport1.uk">
+    <title lang="en">Classic MOTD - Thrillers</title>
+    <sub-title lang="en">Liverpool v Birmingham 1972/73</sub-title>
+    <desc lang="en">We delve into the Match of the Day archives to revisit highlights of the 1972/73 First Division clash at Anfield.(n)</desc>
+  </programme>
+  <programme start="20210416050000 +0100" stop="20210416060000 +0100" channel="btsport1.uk">
+    <title lang="en">The Football's On</title>
+    <desc lang="en">A humorous look at the week's football stories with Ian Stone and guests.(n)</desc>
+  </programme>
+  <programme start="20210416060000 +0100" stop="20210416061500 +0100" channel="btsport1.uk">
+    <title lang="en">Premier League Reload</title>
+    <desc lang="en">A whirlwind catch-up from the weekend's Premier League matches, featuring all the goals and major talking points.(n)</desc>
+  </programme>
+  <programme start="20210416061500 +0100" stop="20210416064500 +0100" channel="btsport1.uk">
+    <title lang="en">It's A Numbers Game</title>
+    <desc lang="en">The latest episode of The Number's Game.(n)</desc>
+  </programme>
+  <programme start="20210416064500 +0100" stop="20210416070000 +0100" channel="btsport1.uk">
+    <title lang="en">All Stars v Rock Stars</title>
+    <desc lang="en">The latest episode of All Stars v Rock Stars.(n)</desc>
+  </programme>
+  <programme start="20210416070000 +0100" stop="20210416080000 +0100" channel="btsport1.uk">
+    <title lang="en">WWE Raw Highlights</title>
+    <desc lang="en">All the best highlights from the latest WWE Raw.(n)</desc>
+  </programme>
+  <programme start="20210416080000 +0100" stop="20210416090000 +0100" channel="btsport1.uk">
+    <title lang="en">WWE NXT Highlights</title>
+    <desc lang="en">Highlights from the latest episode of WWE NXT.(n)</desc>
+  </programme>
+  <programme start="20210416090000 +0100" stop="20210416100000 +0100" channel="btsport1.uk">
+    <title lang="en">The Football's On</title>
+    <desc lang="en">A humorous look at the week's football stories with Ian Stone and guests.(n)</desc>
+  </programme>
+  <programme start="20210416100000 +0100" stop="20210416110000 +0100" channel="btsport1.uk">
+    <title lang="en">The Emirates FA Cup Preview</title>
+    <desc lang="en">A look ahead to the semi-finals of the Emirates FA Cup as Man City face Chelsea and Leicester take on Southampton at Wembley Stadium.(n)</desc>
+  </programme>
+  <programme start="20210416110000 +0100" stop="20210416140000 +0100" channel="btsport1.uk">
+    <title lang="en">Live AFL</title>
+    <sub-title lang="en">Live: W Coast Eagles v Collingwood</sub-title>
+    <desc lang="en">West Coast Eagles v Collingwood Magpies (Bounce-up 11.10am). Coverage of the match from the fifth round of fixtures, taking place at Optus Stadium.(n)</desc>
+  </programme>
+  <programme start="20210416140000 +0100" stop="20210416143000 +0100" channel="btsport1.uk">
+    <title lang="en">Premier League Match Pack</title>
+    <desc lang="en">A preview of this weekend's top flight action, featuring key stats and insight.(n)</desc>
+  </programme>
+  <programme start="20210416143000 +0100" stop="20210416150000 +0100" channel="btsport1.uk">
+    <title lang="en">ESPN FC</title>
+    <desc lang="en">A round-up of the latest news from the world of football at the ESPN studios in Bristol, Connecticut.(n)</desc>
+  </programme>
+  <programme start="20210416150000 +0100" stop="20210416164500 +0100" channel="btsport1.uk">
+    <title lang="en">WWE NXT</title>
+    <desc lang="en">All the action from WWE NXT as the next generation of Superstars showcase their talents.(n)</desc>
+  </programme>
+  <programme start="20210416164500 +0100" stop="20210416170000 +0100" channel="btsport1.uk">
+    <title lang="en">All Stars v Rock Stars</title>
+    <desc lang="en">The latest episode of All Stars v Rock Stars.(n)</desc>
+  </programme>
+  <programme start="20210416170000 +0100" stop="20210416173000 +0100" channel="btsport1.uk">
+    <title lang="en">Premier League Preview</title>
+    <desc lang="en">A look ahead to all the upcoming action in the Premier League.(n)</desc>
+  </programme>
+  <programme start="20210416173000 +0100" stop="20210416183000 +0100" channel="btsport1.uk">
+    <title lang="en">The Emirates FA Cup Preview</title>
+    <desc lang="en">A look ahead to the semi-finals of the Emirates FA Cup as Man City face Chelsea and Leicester take on Southampton at Wembley Stadium.(n)</desc>
+  </programme>
+  <programme start="20210416183000 +0100" stop="20210416190000 +0100" channel="btsport1.uk">
+    <title lang="en">Scottish Football Extra</title>
+    <desc lang="en">A look at all the key issues and talking points in Scottish football.(n)</desc>
+  </programme>
+  <programme start="20210416190000 +0100" stop="20210416220000 +0100" channel="btsport1.uk">
+    <title lang="en">Live Gallagher Premiership Rugby Union</title>
+    <sub-title lang="en">Live: Northampton S v London Irish</sub-title>
+    <desc lang="en">Northampton Saints v London Irish (Kick-off 7.45pm). Coverage of the match from Franklin's Gardens.(n)</desc>
+  </programme>
+  <programme start="20210416220000 +0100" stop="20210416230000 +0100" channel="btsport1.uk">
+    <title lang="en">WWE NXT UK</title>
+    <desc lang="en">All the action from WWE NXT UK as the next generation of Superstars showcase their talents.(n)</desc>
+  </programme>
+  <programme start="20210416230000 +0100" stop="20210417000000 +0100" channel="btsport1.uk">
+    <title lang="en">WWE NXT Highlights</title>
+    <desc lang="en">Highlights from the latest episode of WWE NXT.(n)</desc>
+  </programme>
+  <programme start="20210410024500 +0100" stop="20210410113000 +0100" channel="btsport2.uk">
+    <title lang="en">Live: Women's One-Day International Cricket</title>
+    <sub-title lang="en">Live: NZ W v Australia W - 3rd ODI</sub-title>
+    <desc lang="en">New Zealand v Australia. Coverage of the third and final ODI in the series from Bay Oval in Tauranga.(n)</desc>
+  </programme>
+  <programme start="20210410113000 +0100" stop="20210410120000 +0100" channel="btsport2.uk">
+    <title lang="en">ESPN FC</title>
+    <desc lang="en">A round-up of the latest news from the world of football at the ESPN studios in Bristol, Connecticut.(n)</desc>
+  </programme>
+  <programme start="20210410120000 +0100" stop="20210410144500 +0100" channel="btsport2.uk">
+    <title lang="en">Live European Rugby Challenge Cup</title>
+    <sub-title lang="en">Live: Leicester T v Newcastle F</sub-title>
+    <desc lang="en">Leicester Tigers v Newcastle Falcons (Kick-off 12.30pm). Coverage of the quarter-final from Welford Road.(n)</desc>
+  </programme>
+  <programme start="20210410144500 +0100" stop="20210410171500 +0100" channel="btsport2.uk">
+    <title lang="en">Live Heineken Champions Cup</title>
+    <sub-title lang="en">Live: La Rochelle v Sale Sharks</sub-title>
+    <desc lang="en">La Rochelle v Sale Sharks (Kick-off 3.00pm). Coverage of the quarter-final from Stade Marcel-Deflandre.(n)</desc>
+  </programme>
+  <programme start="20210410171500 +0100" stop="20210410194500 +0100" channel="btsport2.uk">
+    <title lang="en">Live Heineken Champions Cup</title>
+    <sub-title lang="en">Live: Exeter Chiefs v Leinster</sub-title>
+    <desc lang="en">Exeter Chiefs v Leinster (Kick-off 5.30pm). Coverage of the quarter-final from Sandy Park.(n)</desc>
+  </programme>
+  <programme start="20210410194500 +0100" stop="20210410221500 +0100" channel="btsport2.uk">
+    <title lang="en">Live European Rugby Challenge Cup</title>
+    <sub-title lang="en">Live: Northampton Saints v Ulster</sub-title>
+    <desc lang="en">Northampton Saints v Ulster (Kick-off 8.00pm). Coverage of the quarter-final from Franklin's Gardens.(n)</desc>
+  </programme>
+  <programme start="20210410221500 +0100" stop="20210410231500 +0100" channel="btsport2.uk">
+    <title lang="en">Women's One-Day International Cricket</title>
+    <sub-title lang="en">NZ W v Australia W - 3rd ODI</sub-title>
+    <desc lang="en">New Zealand v Australia. Action from the third and final ODI in the series from Bay Oval in Tauranga.(n)</desc>
+  </programme>
+  <programme start="20210410231500 +0100" stop="20210410234500 +0100" channel="btsport2.uk">
+    <title lang="en">World Surf Weekly</title>
+    <desc lang="en">Action from World Surf Weekly.(n)</desc>
+  </programme>
+  <programme start="20210410234500 +0100" stop="20210411001500 +0100" channel="btsport2.uk">
+    <title lang="en">Badminton Unlimited</title>
+    <desc lang="en">Catch up on all the latest news and information from the world of badminton.(n)</desc>
+  </programme>
+  <programme start="20210411001500 +0100" stop="20210411003000 +0100" channel="btsport2.uk">
+    <title lang="en">UEFA Champions League - Stories of the Finals</title>
+    <desc lang="en">Take a look back at the 2013 UEFA Champions League final between Bayern Munich and Borussia Dortmund. Arjen Robben scored a dramatic late winner to defeat Jurgen Klopp's side.(n)</desc>
+  </programme>
+  <programme start="20210411003000 +0100" stop="20210411020000 +0100" channel="btsport2.uk">
+    <title lang="en">Bundesliga</title>
+    <sub-title lang="en">Bayern Munich v Union Berlin</sub-title>
+    <desc lang="en">Bayern Munich v FC Union Berlin.(n)</desc>
+  </programme>
+  <programme start="20210411020000 +0100" stop="20210411033000 +0100" channel="btsport2.uk">
+    <title lang="en">Bundesliga</title>
+    <sub-title lang="en">Stuttgart v Borussia Dortmund</sub-title>
+    <desc lang="en">VfB Stuttgart v Borussia Dortmund.(n)</desc>
+  </programme>
+  <programme start="20210411033000 +0100" stop="20210411034500 +0100" channel="btsport2.uk">
+    <title lang="en">30 for 30 Shorts</title>
+    <sub-title lang="en">Tommy &amp; Frank</sub-title>
+    <desc lang="en">This 30 for 30 Shorts documentary examines the relationship between baseball star Tommy John and surgeon Frank Jobe who performed a revolutionary elbow operation on John in 1974.(n)</desc>
+  </programme>
+  <programme start="20210411034500 +0100" stop="20210411040000 +0100" channel="btsport2.uk">
+    <title lang="en">UEFA Champions League - Stories of the Finals</title>
+    <desc lang="en">Take a look back at Borussia Dortmund's 1997 UEFA Champions League final success against Juventus. The German side conquered Europe after a 3-1 victory in Munich.(n)</desc>
+  </programme>
+  <programme start="20210411040000 +0100" stop="20210411050000 +0100" channel="btsport2.uk">
+    <title lang="en">Fishing: On The Bank</title>
+    <desc lang="en">Andy heads out with England International Rob Wootton for a feeder fishing masterclass, and big grayling hunter Lewis Hendrie goes in search of a River Frome monster.(n)</desc>
+  </programme>
+  <programme start="20210411050000 +0100" stop="20210411060000 +0100" channel="btsport2.uk">
+    <title lang="en">FIFA 21 Global Series</title>
+    <sub-title lang="en">FIFA 21 Global Series - Europe Qualifiers</sub-title>
+    <desc lang="en">Coverage of the FIFA 21 Global Series, Europe qualifiers.(n)</desc>
+  </programme>
+  <programme start="20210411060000 +0100" stop="20210411090000 +0100" channel="btsport2.uk">
+    <title lang="en">Live AFL</title>
+    <sub-title lang="en">Live AFL: Melbourne v Geelong Cats</sub-title>
+    <desc lang="en">Melbourne Demons v Geelong Cats (Bounce-up 6.20am). Coverage of the match from the fourth round of fixtures, taking place at Melbourne Cricket Ground.(n)</desc>
+  </programme>
+  <programme start="20210411090000 +0100" stop="20210411100000 +0100" channel="btsport2.uk">
+    <title lang="en">WWE Raw Highlights</title>
+    <desc lang="en">All the best highlights from the latest WWE Raw.(n)</desc>
+  </programme>
+  <programme start="20210411100000 +0100" stop="20210411110000 +0100" channel="btsport2.uk">
+    <title lang="en">Freeride World Tour</title>
+    <desc lang="en">Snowboarding action from the Xtreme Verbier Switzerland, part of the Freeride World Tour.(n)</desc>
+  </programme>
+  <programme start="20210411110000 +0100" stop="20210411113000 +0100" channel="btsport2.uk">
+    <title lang="en">It's A Numbers Game</title>
+    <desc lang="en">The latest episode of The Number's Game.(n)</desc>
+  </programme>
+  <programme start="20210411113000 +0100" stop="20210411120000 +0100" channel="btsport2.uk">
+    <title lang="en">DIY Pundit</title>
+    <desc lang="en">Ugo Monye invites armchair pundits to try their hand at covering their favourite sports, including football, rugby, MotoGP and more.(n)</desc>
+  </programme>
+  <programme start="20210411120000 +0100" stop="20210411144500 +0100" channel="btsport2.uk">
+    <title lang="en">Live Heineken Champions Cup</title>
+    <sub-title lang="en">Live: Bordeaux-Begles v Racing 92</sub-title>
+    <desc lang="en">Bordeaux Begles v Racing 92 (Kick-off 12.30pm). Coverage of the quarter-final clash from Stade Chaban Delmas.(n)</desc>
+  </programme>
+  <programme start="20210411144500 +0100" stop="20210411173000 +0100" channel="btsport2.uk">
+    <title lang="en">Live Heineken Champions Cup</title>
+    <sub-title lang="en">Live: Clermont Auvergne v Toulouse</sub-title>
+    <desc lang="en">Clermont Auvergne v Toulouse (Kick-off 3.00pm). Coverage of the quarter-final from Parc des Sports Marcel Michelin.(n)</desc>
+  </programme>
+  <programme start="20210411173000 +0100" stop="20210411193000 +0100" channel="btsport2.uk">
+    <title lang="en">Test Cricket Highlights</title>
+    <sub-title lang="en">W Indies v SL - 2nd Test Review</sub-title>
+    <desc lang="en">West Indies v Sri Lanka. A review of the Second Test from Sir Vivian Richards Stadium in Antigua.(n)</desc>
+  </programme>
+  <programme start="20210411193000 +0100" stop="20210411194500 +0100" channel="btsport2.uk">
+    <title lang="en">BT Sport Reload</title>
+    <desc lang="en">The best bits from BT Sport over the last week, including exclusive interviews, the best action and so much more.(n)</desc>
+  </programme>
+  <programme start="20210411194500 +0100" stop="20210411220000 +0100" channel="btsport2.uk">
+    <title lang="en">Live Ligue 1</title>
+    <sub-title lang="en">Live: Lyon v Angers</sub-title>
+    <desc lang="en">Lyon v Angers (Kick-off 8.00pm). Coverage of the French top-flight clash from Groupama Stadium.(n)</desc>
+  </programme>
+  <programme start="20210411220000 +0100" stop="20210411233000 +0100" channel="btsport2.uk">
+    <title lang="en">Heineken Champions Cup Highlights</title>
+    <desc lang="en">Highlights from the Heineken Champions Cup.(n)</desc>
+  </programme>
+  <programme start="20210411233000 +0100" stop="20210412023000 +0100" channel="btsport2.uk">
+    <title lang="en">UFC</title>
+    <sub-title lang="en">UFC Fight Night</sub-title>
+    <desc lang="en">Action from UFC Fight Night as middleweights Kevin Holland and Marvin Vettori meet at the UFC Apex in Las Vegas, Nevada, USA..(n)</desc>
+  </programme>
+  <programme start="20210412023000 +0100" stop="20210412033000 +0100" channel="btsport2.uk">
+    <title lang="en">UFC Unleashed</title>
+    <desc lang="en">Take a look back at some of the greatest fights and fighters in UFC history in this Pound for Pound Powerhouses special.(n)</desc>
+  </programme>
+  <programme start="20210412033000 +0100" stop="20210412040000 +0100" channel="btsport2.uk">
+    <title lang="en">UEFA Champions League Magazine</title>
+    <desc lang="en">The latest news and updates from the UEFA Champions League.(n)</desc>
+  </programme>
+  <programme start="20210412040000 +0100" stop="20210412043000 +0100" channel="btsport2.uk">
+    <title lang="en">UEFA Europa League Magazine</title>
+    <desc lang="en">A round-up of all the latest action from the UEFA Europa League.(n)</desc>
+  </programme>
+  <programme start="20210412043000 +0100" stop="20210412050000 +0100" channel="btsport2.uk">
+    <title lang="en">WRC Classic</title>
+    <sub-title lang="en">WRC Classic: WRC19 Rewind</sub-title>
+    <desc lang="en">A look back at some of the most extraordinary moments from the World Rally Championship in recent years, including the incredible moment Ott Tanak's Fiesta sunk in Mexico in 2015.(n)</desc>
+  </programme>
+  <programme start="20210412050000 +0100" stop="20210412060000 +0100" channel="btsport2.uk">
+    <title lang="en">WRC Classic</title>
+    <sub-title lang="en">WRC Classic: Top 10 Crashes</sub-title>
+    <desc lang="en">A countdown of the top ten most spectacular crashes in the history of the World Rally Championship.(n)</desc>
+  </programme>
+  <programme start="20210412060000 +0100" stop="20210412063000 +0100" channel="btsport2.uk">
+    <title lang="en">DIY Pundit</title>
+    <desc lang="en">Ugo Monye invites armchair pundits to try their hand at covering their favourite sports, including football, rugby, MotoGP and more.(n)</desc>
+  </programme>
+  <programme start="20210412063000 +0100" stop="20210412070000 +0100" channel="btsport2.uk">
+    <title lang="en">It's A Numbers Game</title>
+    <desc lang="en">The latest episode of The Number's Game.(n)</desc>
+  </programme>
+  <programme start="20210412070000 +0100" stop="20210412080000 +0100" channel="btsport2.uk">
+    <title lang="en">WWE SmackDown Highlights</title>
+    <desc lang="en">All the best highlights from the latest episode of WWE Friday Night SmackDown.(n)</desc>
+  </programme>
+  <programme start="20210412080000 +0100" stop="20210412083000 +0100" channel="btsport2.uk">
+    <title lang="en">ESPN FC</title>
+    <desc lang="en">A round-up of the latest news from the world of football at the ESPN studios in Bristol, Connecticut.(n)</desc>
+  </programme>
+  <programme start="20210412083000 +0100" stop="20210412093000 +0100" channel="btsport2.uk">
+    <title lang="en">W-League Football</title>
+    <sub-title lang="en">W-League Grand Final</sub-title>
+    <desc lang="en">Sydney FC Women v Melbourne Victory Women.(n)</desc>
+  </programme>
+  <programme start="20210412093000 +0100" stop="20210412103000 +0100" channel="btsport2.uk">
+    <title lang="en">Hyundai A-League</title>
+    <sub-title lang="en">Newcastle Jets v Melbourne Victory</sub-title>
+    <desc lang="en">Newcastle Jets v Melbourne Victory.(n)</desc>
+  </programme>
+  <programme start="20210412103000 +0100" stop="20210412113000 +0100" channel="btsport2.uk">
+    <title lang="en">Hyundai A-League</title>
+    <sub-title lang="en">Sydney FC v Melbourne City</sub-title>
+    <desc lang="en">Sydney FC v Melbourne City.(n)</desc>
+  </programme>
+  <programme start="20210412113000 +0100" stop="20210412123000 +0100" channel="btsport2.uk">
+    <title lang="en">Hyundai A-League</title>
+    <sub-title lang="en">Adelaide United v Western Sydney W</sub-title>
+    <desc lang="en">Adelaide United v Western Sydney Wanderers.(n)</desc>
+  </programme>
+  <programme start="20210412123000 +0100" stop="20210412133000 +0100" channel="btsport2.uk">
+    <title lang="en">Hyundai A-League</title>
+    <sub-title lang="en">Wellington Phoenix v Western United</sub-title>
+    <desc lang="en">Wellington Phoenix v Western United.(n)</desc>
+  </programme>
+  <programme start="20210412133000 +0100" stop="20210412143000 +0100" channel="btsport2.uk">
+    <title lang="en">Women's One-Day International Cricket</title>
+    <sub-title lang="en">NZ W v Australia W - 3rd ODI</sub-title>
+    <desc lang="en">New Zealand v Australia. Action from the third and final ODI in the series from Bay Oval in Tauranga.(n)</desc>
+  </programme>
+  <programme start="20210412143000 +0100" stop="20210412153000 +0100" channel="btsport2.uk">
+    <title lang="en">W-League Football</title>
+    <sub-title lang="en">W-League Grand Final</sub-title>
+    <desc lang="en">Sydney FC Women v Melbourne Victory Women.(n)</desc>
+  </programme>
+  <programme start="20210412153000 +0100" stop="20210412160000 +0100" channel="btsport2.uk">
+    <title lang="en">UEFA Champions League Magazine</title>
+    <desc lang="en">The latest news and updates from the UEFA Champions League.(n)</desc>
+  </programme>
+  <programme start="20210412160000 +0100" stop="20210412163000 +0100" channel="btsport2.uk">
+    <title lang="en">UEFA Europa League Magazine</title>
+    <desc lang="en">A round-up of all the latest action from the UEFA Europa League.(n)</desc>
+  </programme>
+  <programme start="20210412163000 +0100" stop="20210412173000 +0100" channel="btsport2.uk">
+    <title lang="en">Vanarama National League</title>
+    <sub-title lang="en">Hartlepool v Notts County</sub-title>
+    <desc lang="en">Hartlepool United v Notts County.(n)</desc>
+  </programme>
+  <programme start="20210412173000 +0100" stop="20210412180000 +0100" channel="btsport2.uk">
+    <title lang="en">Vanarama National League Highlights</title>
+    <desc lang="en">The best of the latest action from the Vanarama National League.(n)</desc>
+  </programme>
+  <programme start="20210412180000 +0100" stop="20210412200000 +0100" channel="btsport2.uk">
+    <title lang="en">UK Pro League Tennis</title>
+    <sub-title lang="en">UK Pro League Tennis - #3</sub-title>
+    <desc lang="en">Action from the UK Pro League, the only domestic league for the top UK Tennis Professionals.(n)</desc>
+  </programme>
+  <programme start="20210412200000 +0100" stop="20210412210000 +0100" channel="btsport2.uk">
+    <title lang="en">V10 R-League</title>
+    <desc lang="en">Highlights from the the V10 R-League.(n)</desc>
+  </programme>
+  <programme start="20210412210000 +0100" stop="20210412220000 +0100" channel="btsport2.uk">
+    <title lang="en">Fishing: On The Bank</title>
+    <desc lang="en">Angling magazine show presented by Rob Hughes and Andy Ford.(n)</desc>
+  </programme>
+  <programme start="20210412220000 +0100" stop="20210412223000 +0100" channel="btsport2.uk">
+    <title lang="en">UFC Fight Camp</title>
+    <sub-title lang="en">SC: UFC Fight Camp</sub-title>
+    <desc lang="en">Exclusive access, interviews and features with fighters, analysis from experts and the best from the world of UFC.(n)</desc>
+  </programme>
+  <programme start="20210412223000 +0100" stop="20210412233000 +0100" channel="btsport2.uk">
+    <title lang="en">UFC Main Event</title>
+    <sub-title lang="en">UFC Main Event: 256</sub-title>
+    <desc lang="en">Look back at all the action from the UFC 256 flyweight bout between Deiveson Figueiredo and Brandon Moreno at UFC Apex in Las Vegas, back in December 2020.(n)</desc>
+  </programme>
+  <programme start="20210412233000 +0100" stop="20210413023000 +0100" channel="btsport2.uk">
+    <title lang="en">UFC</title>
+    <sub-title lang="en">UFC Fight Night</sub-title>
+    <desc lang="en">Action from UFC Fight Night as middleweights Kevin Holland and Marvin Vettori meet at the UFC Apex in Las Vegas, Nevada, USA..(n)</desc>
+  </programme>
+  <programme start="20210413023000 +0100" stop="20210413033000 +0100" channel="btsport2.uk">
+    <title lang="en">UFC Unleashed</title>
+    <desc lang="en">Take a look back at some of the greatest fights and fighters in UFC history in this Pound for Pound Powerhouses special.(n)</desc>
+  </programme>
+  <programme start="20210413033000 +0100" stop="20210413040000 +0100" channel="btsport2.uk">
+    <title lang="en">UFC Fight Camp</title>
+    <sub-title lang="en">SC: UFC Fight Camp</sub-title>
+    <desc lang="en">Exclusive access, interviews and features with fighters, analysis from experts and the best from the world of UFC.(n)</desc>
+  </programme>
+  <programme start="20210413040000 +0100" stop="20210413050000 +0100" channel="btsport2.uk">
+    <title lang="en">UEFA Champions League Highlights</title>
+    <desc lang="en">All the goals and highlights from the latest set of fixtures in the UEFA Champions League.(n)</desc>
+  </programme>
+  <programme start="20210413050000 +0100" stop="20210413060000 +0100" channel="btsport2.uk">
+    <title lang="en">UEFA Europa League Highlights Show</title>
+    <desc lang="en">The latest action from the UEFA Europa League.(n)</desc>
+  </programme>
+  <programme start="20210413060000 +0100" stop="20210413063000 +0100" channel="btsport2.uk">
+    <title lang="en">Ultimate Kricket Challenge</title>
+    <desc lang="en">Former England star Kevin Pieterson goes up against current England ODI captain Eoin Morgan in this episode of Ultimate Kricket Challenge.(n)</desc>
+  </programme>
+  <programme start="20210413063000 +0100" stop="20210413073000 +0100" channel="btsport2.uk">
+    <title lang="en">W-League Football</title>
+    <sub-title lang="en">W-League Grand Final</sub-title>
+    <desc lang="en">Sydney FC Women v Melbourne Victory Women.(n)</desc>
+  </programme>
+  <programme start="20210413073000 +0100" stop="20210413083000 +0100" channel="btsport2.uk">
+    <title lang="en">Bundesliga</title>
+    <sub-title lang="en">Hoffenheim v Bayer Leverkusen</sub-title>
+    <desc lang="en">TSG 1899 Hoffenheim v Bayer Leverkusen.(n)</desc>
+  </programme>
+  <programme start="20210413083000 +0100" stop="20210413100000 +0100" channel="btsport2.uk">
+    <title lang="en">Heineken Champions Cup Highlights</title>
+    <desc lang="en">Highlights from the Heineken Champions Cup.(n)</desc>
+  </programme>
+  <programme start="20210413100000 +0100" stop="20210413110000 +0100" channel="btsport2.uk">
+    <title lang="en">UEFA Champions League Highlights</title>
+    <desc lang="en">All the goals and highlights from the latest set of fixtures in the UEFA Champions League.(n)</desc>
+  </programme>
+  <programme start="20210413110000 +0100" stop="20210413120000 +0100" channel="btsport2.uk">
+    <title lang="en">UEFA Europa League Highlights Show</title>
+    <desc lang="en">The latest action from the UEFA Europa League.(n)</desc>
+  </programme>
+  <programme start="20210413120000 +0100" stop="20210413130000 +0100" channel="btsport2.uk">
+    <title lang="en">Hockey</title>
+    <sub-title lang="en">Men's Hockey: ARG v IND</sub-title>
+    <desc lang="en">Argentina v India.(n)</desc>
+  </programme>
+  <programme start="20210413130000 +0100" stop="20210413140000 +0100" channel="btsport2.uk">
+    <title lang="en">Hockey</title>
+    <sub-title lang="en">Men's Hockey: ARG v IND</sub-title>
+    <desc lang="en">Argentina v India.(n)</desc>
+  </programme>
+  <programme start="20210413140000 +0100" stop="20210413150000 +0100" channel="btsport2.uk">
+    <title lang="en">Fishing: On The Bank</title>
+    <desc lang="en">Angling magazine show presented by Rob Hughes and Andy Ford.(n)</desc>
+  </programme>
+  <programme start="20210413150000 +0100" stop="20210413163000 +0100" channel="btsport2.uk">
+    <title lang="en">Heineken Champions Cup Highlights</title>
+    <desc lang="en">Highlights from the Heineken Champions Cup.(n)</desc>
+  </programme>
+  <programme start="20210413163000 +0100" stop="20210413173000 +0100" channel="btsport2.uk">
+    <title lang="en">Bundesliga</title>
+    <sub-title lang="en">Hoffenheim v Bayer Leverkusen</sub-title>
+    <desc lang="en">TSG 1899 Hoffenheim v Bayer Leverkusen.(n)</desc>
+  </programme>
+  <programme start="20210413173000 +0100" stop="20210413180000 +0100" channel="btsport2.uk">
+    <title lang="en">ESPN FC</title>
+    <desc lang="en">A round-up of the latest news from the world of football at the ESPN studios in Bristol, Connecticut.(n)</desc>
+  </programme>
+  <programme start="20210413180000 +0100" stop="20210413190000 +0100" channel="btsport2.uk">
+    <title lang="en">UEFA Champions League</title>
+    <sub-title lang="en">Porto v Chelsea</sub-title>
+    <desc lang="en">FC Porto v Chelsea.(n)</desc>
+  </programme>
+  <programme start="20210413190000 +0100" stop="20210413223000 +0100" channel="btsport2.uk">
+    <title lang="en">Live UEFA Champions League</title>
+    <sub-title lang="en">Live: Chelsea v Porto</sub-title>
+    <desc lang="en">Chelsea v FC Porto (Kick-off 8.00pm). Coverage of the quarter-final second-leg clash from Ramon Sanchez Pizjuan Stadium.(n)</desc>
+  </programme>
+  <programme start="20210413223000 +0100" stop="20210414000000 +0100" channel="btsport2.uk">
+    <title lang="en">BT Sport Films</title>
+    <sub-title lang="en">Make It Or Die Trying: The Frank Warren Story</sub-title>
+    <desc lang="en">BT Sport Films tells the story of Frank Warren's life and how the boxing promoter rose from humble beginnings in North London to multimillion pound deals in Las Vegas.(n)</desc>
+  </programme>
+  <programme start="20210414000000 +0100" stop="20210414003000 +0100" channel="btsport2.uk">
+    <title lang="en">UFC Fight Camp</title>
+    <sub-title lang="en">SC: UFC Fight Camp</sub-title>
+    <desc lang="en">Exclusive access, interviews and features with fighters, analysis from experts and the best from the world of UFC.(n)</desc>
+  </programme>
+  <programme start="20210414003000 +0100" stop="20210414013000 +0100" channel="btsport2.uk">
+    <title lang="en">UFC Main Event</title>
+    <sub-title lang="en">UFC Main Event: 256</sub-title>
+    <desc lang="en">Look back at all the action from the UFC 256 flyweight bout between Deiveson Figueiredo and Brandon Moreno at UFC Apex in Las Vegas, back in December 2020.(n)</desc>
+  </programme>
+  <programme start="20210414013000 +0100" stop="20210414031500 +0100" channel="btsport2.uk">
+    <title lang="en">UFC Reloaded</title>
+    <desc lang="en">We revisit UFC 110 from February 2010 in Sydney, featuring the captivating headline bout between Minotauro Nogueira and Cain Velasquez.(n)</desc>
+  </programme>
+  <programme start="20210414031500 +0100" stop="20210414041500 +0100" channel="btsport2.uk">
+    <title lang="en">UFC Unleashed</title>
+    <desc lang="en">Take a look back at some of the greatest fights and fighters in UFC history in this Pound for Pound Powerhouses special.(n)</desc>
+  </programme>
+  <programme start="20210414041500 +0100" stop="20210414051500 +0100" channel="btsport2.uk">
+    <title lang="en">UFC Main Event</title>
+    <sub-title lang="en">UFC Main Event: 256</sub-title>
+    <desc lang="en">Look back at all the action from the UFC 256 flyweight bout between Deiveson Figueiredo and Brandon Moreno at UFC Apex in Las Vegas, back in December 2020.(n)</desc>
+  </programme>
+  <programme start="20210414051500 +0100" stop="20210414054500 +0100" channel="btsport2.uk">
+    <title lang="en">UEFA Europa League Magazine</title>
+    <desc lang="en">A round-up of all the latest action from the UEFA Europa League.(n)</desc>
+  </programme>
+  <programme start="20210414054500 +0100" stop="20210414060000 +0100" channel="btsport2.uk">
+    <title lang="en">30 for 30 Shorts</title>
+    <sub-title lang="en">The High Five</sub-title>
+    <desc lang="en">The story behind the high five, from its origins to the professional and personal decline of the man credited with its creation, Glenn Burke. A 30 for 30 Shorts documentary.(n)</desc>
+  </programme>
+  <programme start="20210414060000 +0100" stop="20210414063000 +0100" channel="btsport2.uk">
+    <title lang="en">BT Sport Goals Reload</title>
+    <desc lang="en">We bring you the greatest goals from around the world this week, including action from Ligue 1 and the Bundesliga.(n)</desc>
+  </programme>
+  <programme start="20210414063000 +0100" stop="20210414070000 +0100" channel="btsport2.uk">
+    <title lang="en">It's A Numbers Game</title>
+    <desc lang="en">The latest episode of The Number's Game.(n)</desc>
+  </programme>
+  <programme start="20210414070000 +0100" stop="20210414093000 +0100" channel="btsport2.uk">
+    <title lang="en">WWE Monday Night Raw</title>
+    <desc lang="en">Watch Drew McIntyre, Asuka, Kofi Kingston and Charlotte Flair and more of your favourite WWE Superstars face-off inside the ring on WWE Monday Night Raw.(n)</desc>
+  </programme>
+  <programme start="20210414093000 +0100" stop="20210414103000 +0100" channel="btsport2.uk">
+    <title lang="en">Fishing: On The Bank</title>
+    <desc lang="en">Angling magazine show presented by Rob Hughes and Andy Ford.(n)</desc>
+  </programme>
+  <programme start="20210414103000 +0100" stop="20210414113000 +0100" channel="btsport2.uk">
+    <title lang="en">V10 R-League</title>
+    <desc lang="en">Highlights from the the V10 R-League.(n)</desc>
+  </programme>
+  <programme start="20210414113000 +0100" stop="20210414133000 +0100" channel="btsport2.uk">
+    <title lang="en">AFL</title>
+    <sub-title lang="en">AFL: Gold Coast Suns v Carlton</sub-title>
+    <desc lang="en">Gold Coast Suns v Carlton Blues.(n)</desc>
+  </programme>
+  <programme start="20210414133000 +0100" stop="20210414153000 +0100" channel="btsport2.uk">
+    <title lang="en">UK Pro League Tennis</title>
+    <sub-title lang="en">UK Pro League Tennis - #3</sub-title>
+    <desc lang="en">Action from the UK Pro League, the only domestic league for the top UK Tennis Professionals.(n)</desc>
+  </programme>
+  <programme start="20210414153000 +0100" stop="20210414160000 +0100" channel="btsport2.uk">
+    <title lang="en">Badminton Unlimited</title>
+    <desc lang="en">Catch up on all the latest news and information from the world of badminton.(n)</desc>
+  </programme>
+  <programme start="20210414160000 +0100" stop="20210414161500 +0100" channel="btsport2.uk">
+    <title lang="en">BT Sport Goals Reload</title>
+    <desc lang="en">We bring you the greatest goals from around the world this week, including action from Ligue 1 and the Bundesliga.(n)</desc>
+  </programme>
+  <programme start="20210414161500 +0100" stop="20210414163000 +0100" channel="btsport2.uk">
+    <title lang="en">Premier League Reload</title>
+    <desc lang="en">A whirlwind catch-up from the weekend's Premier League matches, featuring all the goals and major talking points.(n)</desc>
+  </programme>
+  <programme start="20210414163000 +0100" stop="20210414180000 +0100" channel="btsport2.uk">
+    <title lang="en">Premier League</title>
+    <sub-title lang="en">Manchester City v Leeds United</sub-title>
+    <desc lang="en">Manchester City v Leeds United.(n)</desc>
+  </programme>
+  <programme start="20210414180000 +0100" stop="20210414190000 +0100" channel="btsport2.uk">
+    <title lang="en">UEFA Champions League</title>
+    <sub-title lang="en">Real Madrid v Liverpool</sub-title>
+    <desc lang="en">Real Madrid v Liverpool.(n)</desc>
+  </programme>
+  <programme start="20210414190000 +0100" stop="20210414223000 +0100" channel="btsport2.uk">
+    <title lang="en">Live UEFA Champions League</title>
+    <sub-title lang="en">Live: Liverpool v Real Madrid</sub-title>
+    <desc lang="en">Liverpool v Real Madrid (Kick-off 8.00pm). Coverage of the quarter-final second-leg clash from Anfield.(n)</desc>
+  </programme>
+  <programme start="20210414223000 +0100" stop="20210414233000 +0100" channel="btsport2.uk">
+    <title lang="en">Live UEFA Champions League Highlights</title>
+    <desc lang="en">All the goals and highlights from the latest set of fixtures in the UEFA Champions League.(n)</desc>
+  </programme>
+  <programme start="20210414233000 +0100" stop="20210415003000 +0100" channel="btsport2.uk">
+    <title lang="en">The Football's On</title>
+    <desc lang="en">A humorous look at the week's football stories with Ian Stone and guests.(n)</desc>
+  </programme>
+  <programme start="20210415003000 +0100" stop="20210415023000 +0100" channel="btsport2.uk">
+    <title lang="en">30 for 30</title>
+    <sub-title lang="en">30 For 30: Lance - Part 1</sub-title>
+    <desc lang="en">Lance Armstrong's story from his rise as a young superstar cyclist; battling with testicular cancer; seven consecutive Tour de France titles and the infamous doping scandal. (1/2).(n)</desc>
+  </programme>
+  <programme start="20210415023000 +0100" stop="20210415041500 +0100" channel="btsport2.uk">
+    <title lang="en">Cricket Documentaries</title>
+    <sub-title lang="en">Cricket's Greatest Blunders and Wonders</sub-title>
+    <desc lang="en">... Wonders. From captains to commentators, and questionable coin tosses to under arm deliveries, we'll look at some of the strangest situations to ever occur in cricket's history..(n)</desc>
+  </programme>
+  <programme start="20210415041500 +0100" stop="20210415043000 +0100" channel="btsport2.uk">
+    <title lang="en">BT Sport Reload</title>
+    <desc lang="en">The best bits from BT Sport over the last week, including exclusive interviews, the best action and so much more.(n)</desc>
+  </programme>
+  <programme start="20210415043000 +0100" stop="20210415053000 +0100" channel="btsport2.uk">
+    <title lang="en">Bundesliga Highlights Show</title>
+    <desc lang="en">The best of the latest action from the Bundesliga.(n)</desc>
+  </programme>
+  <programme start="20210415053000 +0100" stop="20210415060000 +0100" channel="btsport2.uk">
+    <title lang="en">Badminton Unlimited</title>
+    <desc lang="en">Catch up on all the latest news and information from the world of badminton.(n)</desc>
+  </programme>
+  <programme start="20210415060000 +0100" stop="20210415063000 +0100" channel="btsport2.uk">
+    <title lang="en">Ultimate Kricket Challenge</title>
+    <desc lang="en">Action from the final of the Ultimate Kricket Challenge as Rashid Khan and Andre Russell face-off to be crowned champion.(n)</desc>
+  </programme>
+  <programme start="20210415063000 +0100" stop="20210415070000 +0100" channel="btsport2.uk">
+    <title lang="en">It's A Numbers Game</title>
+    <desc lang="en">The latest episode of The Number's Game.(n)</desc>
+  </programme>
+  <programme start="20210415070000 +0100" stop="20210415071500 +0100" channel="btsport2.uk">
+    <title lang="en">All Stars v Rock Stars</title>
+    <desc lang="en">The latest episode of All Stars v Rock Stars.(n)</desc>
+  </programme>
+  <programme start="20210415071500 +0100" stop="20210415090000 +0100" channel="btsport2.uk">
+    <title lang="en">WWE NXT</title>
+    <desc lang="en">All the action from WWE NXT as the next generation of Superstars showcase their talents.(n)</desc>
+  </programme>
+  <programme start="20210415090000 +0100" stop="20210415103000 +0100" channel="btsport2.uk">
+    <title lang="en">Hyundai A-League</title>
+    <sub-title lang="en">Adelaide United v Macarthur Bulls</sub-title>
+    <desc lang="en">Adelaide United v Macarthur Bulls.(n)</desc>
+  </programme>
+  <programme start="20210415103000 +0100" stop="20210415113000 +0100" channel="btsport2.uk">
+    <title lang="en">Hockey</title>
+    <sub-title lang="en">Men's Hockey: ARG v IND</sub-title>
+    <desc lang="en">Argentina v India.(n)</desc>
+  </programme>
+  <programme start="20210415113000 +0100" stop="20210415123000 +0100" channel="btsport2.uk">
+    <title lang="en">Hockey</title>
+    <sub-title lang="en">Men's Hockey: ARG v IND</sub-title>
+    <desc lang="en">Argentina v India.(n)</desc>
+  </programme>
+  <programme start="20210415123000 +0100" stop="20210415140000 +0100" channel="btsport2.uk">
+    <title lang="en">Heineken Champions Cup Highlights</title>
+    <desc lang="en">Highlights from the Heineken Champions Cup.(n)</desc>
+  </programme>
+  <programme start="20210415140000 +0100" stop="20210415141500 +0100" channel="btsport2.uk">
+    <title lang="en">BT Sport Goals Reload</title>
+    <desc lang="en">We bring you the greatest goals from around the world this week, including action from Ligue 1 and the Bundesliga.(n)</desc>
+  </programme>
+  <programme start="20210415141500 +0100" stop="20210415154500 +0100" channel="btsport2.uk">
+    <title lang="en">Premier League</title>
+    <sub-title lang="en">Sheffield United v Arsenal</sub-title>
+    <desc lang="en">Sheffield United v Arsenal.(n)</desc>
+  </programme>
+  <programme start="20210415154500 +0100" stop="20210415164500 +0100" channel="btsport2.uk">
+    <title lang="en">The Football's On</title>
+    <desc lang="en">A humorous look at the week's football stories with Ian Stone and guests.(n)</desc>
+  </programme>
+  <programme start="20210415164500 +0100" stop="20210415171500 +0100" channel="btsport2.uk">
+    <title lang="en">ESPN FC</title>
+    <desc lang="en">A round-up of the latest news from the world of football at the ESPN studios in Bristol, Connecticut.(n)</desc>
+  </programme>
+  <programme start="20210415171500 +0100" stop="20210415174500 +0100" channel="btsport2.uk">
+    <title lang="en">Bundesliga Special</title>
+    <desc lang="en">Action from Germany's Bundesliga.(n)</desc>
+  </programme>
+  <programme start="20210415174500 +0100" stop="20210415181500 +0100" channel="btsport2.uk">
+    <title lang="en">Bundesliga Weekly</title>
+    <desc lang="en">All the latest news and information from the Bundesliga.(n)</desc>
+  </programme>
+  <programme start="20210415181500 +0100" stop="20210415184500 +0100" channel="btsport2.uk">
+    <title lang="en">Ligue 1 Show</title>
+    <desc lang="en">A look ahead to the upcoming football in the top flight of France.(n)</desc>
+  </programme>
+  <programme start="20210415184500 +0100" stop="20210415191500 +0100" channel="btsport2.uk">
+    <title lang="en">UEFA Europa League Magazine</title>
+    <desc lang="en">A round-up of all the latest action from the UEFA Europa League.(n)</desc>
+  </programme>
+  <programme start="20210415191500 +0100" stop="20210415223000 +0100" channel="btsport2.uk">
+    <title lang="en">Live UEFA Europa League</title>
+    <sub-title lang="en">Live: Manchester United v Granada</sub-title>
+    <desc lang="en">Manchester United v Granada (Kick-off 8.00pm). Coverage of the quarter-final second-leg clash from Old Trafford.(n)</desc>
+  </programme>
+  <programme start="20210415223000 +0100" stop="20210415233000 +0100" channel="btsport2.uk">
+    <title lang="en">Live UEFA Europa League Highlights</title>
+    <desc lang="en">All the goals and talking points from the latest round of Europa League fixtures.(n)</desc>
+  </programme>
+  <programme start="20210415233000 +0100" stop="20210416010000 +0100" channel="btsport2.uk">
+    <title lang="en">BT Sport Films</title>
+    <sub-title lang="en">Make It Or Die Trying: The Frank Warren Story</sub-title>
+    <desc lang="en">BT Sport Films tells the story of Frank Warren's life and how the boxing promoter rose from humble beginnings in North London to multimillion pound deals in Las Vegas.(n)</desc>
+  </programme>
+  <programme start="20210416010000 +0100" stop="20210416020000 +0100" channel="btsport2.uk">
+    <title lang="en">Hyundai A-League Highlights</title>
+    <desc lang="en">A review of all the goals and talking points from the weekend's A-League games.(n)</desc>
+  </programme>
+  <programme start="20210416020000 +0100" stop="20210416040000 +0100" channel="btsport2.uk">
+    <title lang="en">AFL</title>
+    <sub-title lang="en">AFL: St Kilda v Richmond</sub-title>
+    <desc lang="en">St Kilda Saints v Richmond Tigers.(n)</desc>
+  </programme>
+  <programme start="20210416040000 +0100" stop="20210416050000 +0100" channel="btsport2.uk">
+    <title lang="en">UFC Main Event</title>
+    <sub-title lang="en">UFC Main Event: 256</sub-title>
+    <desc lang="en">Look back at all the action from the UFC 256 flyweight bout between Deiveson Figueiredo and Brandon Moreno at UFC Apex in Las Vegas, back in December 2020.(n)</desc>
+  </programme>
+  <programme start="20210416050000 +0100" stop="20210416053000 +0100" channel="btsport2.uk">
+    <title lang="en">DIY Pundit</title>
+    <desc lang="en">Ugo Monye presents DIY Pundit, a brand-new series that invites armchair pundits to try their hand at covering their favourite sports, including football, Rugby, MotoGP and.(n)</desc>
+  </programme>
+  <programme start="20210416053000 +0100" stop="20210416060000 +0100" channel="btsport2.uk">
+    <title lang="en">Badminton Unlimited</title>
+    <desc lang="en">Catch up on all the latest news and information from the world of badminton.(n)</desc>
+  </programme>
+  <programme start="20210416060000 +0100" stop="20210416063000 +0100" channel="btsport2.uk">
+    <title lang="en">Badminton Unlimited</title>
+    <desc lang="en">Catch up on all the latest news and information from the world of badminton.(n)</desc>
+  </programme>
+  <programme start="20210416063000 +0100" stop="20210416070000 +0100" channel="btsport2.uk">
+    <title lang="en">Premier League Match Pack</title>
+    <desc lang="en">A preview of this weekend's top flight action, featuring key stats and insight.(n)</desc>
+  </programme>
+  <programme start="20210416070000 +0100" stop="20210416080100 +0100" channel="btsport2.uk">
+    <title lang="en">Hyundai A-League Highlights</title>
+    <desc lang="en">A review of all the goals and talking points from the weekend's A-League games.(n)</desc>
+  </programme>
+  <programme start="20210416080100 +0100" stop="20210416083000 +0100" channel="btsport2.uk">
+    <title lang="en">ESPN FC</title>
+    <desc lang="en">A round-up of the latest news from the world of football at the ESPN studios in Bristol, Connecticut.(n)</desc>
+  </programme>
+  <programme start="20210416083000 +0100" stop="20210416090000 +0100" channel="btsport2.uk">
+    <title lang="en">DIY Pundit</title>
+    <desc lang="en">Ugo Monye presents DIY Pundit, a brand-new series that invites armchair pundits to try their hand at covering their favourite sports, including football, Rugby, MotoGP and.(n)</desc>
+  </programme>
+  <programme start="20210416090000 +0100" stop="20210416114500 +0100" channel="btsport2.uk">
+    <title lang="en">Live MotoGP</title>
+    <sub-title lang="en">Live MotoGP: GP Of Portugal FP1</sub-title>
+    <desc lang="en">MotoGP action from free practice one of the Grand Prix of Portugal.(n)</desc>
+  </programme>
+  <programme start="20210416114500 +0100" stop="20210416121500 +0100" channel="btsport2.uk">
+    <title lang="en">World Surf Weekly</title>
+    <desc lang="en">Action from World Surf Weekly.(n)</desc>
+  </programme>
+  <programme start="20210416121500 +0100" stop="20210416124500 +0100" channel="btsport2.uk">
+    <title lang="en">BT Sport Reload</title>
+    <desc lang="en">The best bits from BT Sport over the last week, including exclusive interviews, the best action and so much more.(n)</desc>
+  </programme>
+  <programme start="20210416124500 +0100" stop="20210416131500 +0100" channel="btsport2.uk">
+    <title lang="en">DIY Pundit</title>
+    <desc lang="en">Ugo Monye presents DIY Pundit, a brand-new series that invites armchair pundits to try their hand at covering their favourite sports, including football, Rugby, MotoGP and.(n)</desc>
+  </programme>
+  <programme start="20210416131500 +0100" stop="20210416160000 +0100" channel="btsport2.uk">
+    <title lang="en">Live MotoGP</title>
+    <sub-title lang="en">Live MotoGP: GP of Portugal FP2</sub-title>
+    <desc lang="en">Coverage of the Grand Prix of Portugal Free Practice 2 session.(n)</desc>
+  </programme>
+  <programme start="20210416160000 +0100" stop="20210416161500 +0100" channel="btsport2.uk">
+    <title lang="en">BT Sport Reload</title>
+    <desc lang="en">The best bits from BT Sport over the last week, including exclusive interviews, the best action and so much more.(n)</desc>
+  </programme>
+  <programme start="20210416161500 +0100" stop="20210416164500 +0100" channel="btsport2.uk">
+    <title lang="en">Badminton Unlimited</title>
+    <desc lang="en">Catch up on all the latest news and information from the world of badminton.(n)</desc>
+  </programme>
+  <programme start="20210416164500 +0100" stop="20210416171500 +0100" channel="btsport2.uk">
+    <title lang="en">The Outdoor Sports Show</title>
+    <desc lang="en">This exhilarating series captures the best action from extreme sports around the globe, including trail running, triathlon, skiing, snowboarding, climbing and paragliding.(n)</desc>
+  </programme>
+  <programme start="20210416171500 +0100" stop="20210416181500 +0100" channel="btsport2.uk">
+    <title lang="en">The Football's On</title>
+    <desc lang="en">A humorous look at the week's football stories with Ian Stone and guests.(n)</desc>
+  </programme>
+  <programme start="20210416181500 +0100" stop="20210416184500 +0100" channel="btsport2.uk">
+    <title lang="en">Premier League Preview</title>
+    <desc lang="en">A look ahead to all the upcoming action in the Premier League.(n)</desc>
+  </programme>
+  <programme start="20210416184500 +0100" stop="20210416191500 +0100" channel="btsport2.uk">
+    <title lang="en">Bundesliga Weekly</title>
+    <desc lang="en">All the latest news and information from the Bundesliga.(n)</desc>
+  </programme>
+  <programme start="20210416191500 +0100" stop="20210416213000 +0100" channel="btsport2.uk">
+    <title lang="en">Live Bundesliga</title>
+    <sub-title lang="en">Live: RB Leipzig v Hoffenheim</sub-title>
+    <desc lang="en">RB Leipzig v TSG 1899 Hoffenheim (Kick-off 7.30pm). Coverage of the German top-flight clash from Red Bull Arena.(n)</desc>
+  </programme>
+  <programme start="20210416213000 +0100" stop="20210416220000 +0100" channel="btsport2.uk">
+    <title lang="en">UEFA Champions League Magazine</title>
+    <desc lang="en">The latest news and updates from the UEFA Champions League.(n)</desc>
+  </programme>
+  <programme start="20210416220000 +0100" stop="20210416223000 +0100" channel="btsport2.uk">
+    <title lang="en">Scottish Football Extra</title>
+    <desc lang="en">A look at all the key issues and talking points in Scottish football.(n)</desc>
+  </programme>
+  <programme start="20210416223000 +0100" stop="20210416230000 +0100" channel="btsport2.uk">
+    <title lang="en">Live: UFC Live</title>
+    <sub-title lang="en">Live: UFC Live Fight Night</sub-title>
+    <desc lang="en">The latest episode of UFC Live looks ahead to the Fight Night bout between Robert Whittaker and Paulo Costa.(n)</desc>
+  </programme>
+  <programme start="20210416230000 +0100" stop="20210416233000 +0100" channel="btsport2.uk">
+    <title lang="en">UFC Fight Camp</title>
+    <sub-title lang="en">SC: UFC Fight Camp</sub-title>
+    <desc lang="en">Exclusive access, interviews and features with fighters, analysis from experts and the best from the world of UFC.(n)</desc>
+  </programme>
+  <programme start="20210416233000 +0100" stop="20210417010000 +0100" channel="btsport2.uk">
+    <title lang="en">Hyundai A-League</title>
+    <sub-title lang="en">Western Sydney W v Brisbane Roar</sub-title>
+    <desc lang="en">Western Sydney Wanderers v Brisbane Roar.(n)</desc>
+  </programme>
+</tv>
